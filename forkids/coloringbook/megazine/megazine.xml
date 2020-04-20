@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE book SYSTEM "http://megazine.mightypirates.de/megazine.dtd">
+<book pagewidth="300" pageheight="350" plugins="links">>
+    <chapter>
+
+	
+          <page stiff="true">
+            <img src="src/00 (1).JPG" url="http://baxterbarn.org/forkids/coloringbook/megazine/pages/Page1.pdf"/>
+	  </page>        
+        <page>
+            <img src="src/00 (2).JPG" url="http://baxterbarn.org/forkids/coloringbook/megazine/pages/Page2.pdf"/>
+        </page>
+        <page>
+            <img src="src/00 (3).JPG" url="http://baxterbarn.org/forkids/coloringbook/megazine/pages/Page3.pdf"/>
+        </page>
+	<page>
+            <img src="src/00 (4).JPG" url="http://baxterbarn.org/forkids/coloringbook/megazine/pages/Page4.pdf"/>
+        </page>
+	<page>
+            <img src="src/00 (5).JPG" url="http://baxterbarn.org/forkids/coloringbook/megazine/pages/Page5.pdf"/>
+        </page>
+	<page>
+            <img src="src/00 (6).JPG" url="http://baxterbarn.org/forkids/coloringbook/megazine/pages/Page6.pdf"/>
+        </page>
+	<page>
+            <img src="src/00 (7).JPG" url="http://baxterbarn.org/forkids/coloringbook/megazine/pages/Page7.pdf"/>
+        </page>
+	<page>
+            <img src="src/00 (8).JPG" url="http://baxterbarn.org/forkids/coloringbook/megazine/pages/Page8.pdf"/>
+        </page>
+	<page stiff="true">
+            <img src="src/00 (9).JPG" url="http://baxterbarn.org/forkids/coloringbook/megazine/pages/Page9.pdf"/>
+        </page>
+	
+           </chapter>
+</book>

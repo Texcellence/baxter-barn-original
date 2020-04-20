@@ -1,0 +1,377 @@
+<?xml version="1.0"?>
+<mediaGroup>
+<amgVersion version="1.3"/>
+<groupInfo>
+<author/>
+<authorApplication>Lightroom 3.3</authorApplication>
+<creationDate>07/07/11, 10:05:11 AM</creationDate>
+<galleryMaker name="Adobe Flash Gallery" version="1.3"/>
+<groupData groupID="" groupName=""/>
+<authorID/>
+<custom>
+<groupTitle></groupTitle>
+<groupDescription>&#x00A9;2010 Joey Nicole Photography
+(All Rights Reserved for All Content and Photo )
+</groupDescription>
+<siteTitle>Joey Nicole - Baxter Barn Photo Gallery</siteTitle>
+<contactName>Joey Nicole</contactName>
+<contactEmail>http://www.joeynicole.com/</contactEmail>
+</custom>
+</groupInfo>
+<sizes>
+<imageSize maxheight="96" maxwidth="96" size="thumb"/>
+<imageSize maxheight="450" maxwidth="800" size="small"/>
+<imageSize maxheight="520" maxwidth="1040" size="medium"/>
+<imageSize maxheight="650" maxwidth="1150" size="large"/>
+</sizes>
+<media totalGallerySize="29">
+<item>
+<title></title>
+<description></description>
+<imageID id="346" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="650" src="images/large/paleogirls0013.jpg" width="977" size="large"/>
+<rendition height="520" src="images/medium/paleogirls0013.jpg" width="782" size="medium"/>
+<rendition height="450" src="images/small/paleogirls0013.jpg" width="677" size="small"/>
+<rendition height="64" src="images/thumb/paleogirls0013.jpg" width="96" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="357" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="650" src="images/large/paleogirls0014.jpg" width="977" size="large"/>
+<rendition height="520" src="images/medium/paleogirls0014.jpg" width="782" size="medium"/>
+<rendition height="450" src="images/small/paleogirls0014.jpg" width="677" size="small"/>
+<rendition height="64" src="images/thumb/paleogirls0014.jpg" width="96" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="368" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="650" src="images/large/paleogirls0015.jpg" width="977" size="large"/>
+<rendition height="520" src="images/medium/paleogirls0015.jpg" width="782" size="medium"/>
+<rendition height="450" src="images/small/paleogirls0015.jpg" width="677" size="small"/>
+<rendition height="64" src="images/thumb/paleogirls0015.jpg" width="96" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="379" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="650" src="images/large/paleogirls0016.jpg" width="976" size="large"/>
+<rendition height="520" src="images/medium/paleogirls0016.jpg" width="781" size="medium"/>
+<rendition height="450" src="images/small/paleogirls0016.jpg" width="676" size="small"/>
+<rendition height="64" src="images/thumb/paleogirls0016.jpg" width="96" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="390" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="650" src="images/large/paleogirls0017.jpg" width="977" size="large"/>
+<rendition height="520" src="images/medium/paleogirls0017.jpg" width="782" size="medium"/>
+<rendition height="450" src="images/small/paleogirls0017.jpg" width="677" size="small"/>
+<rendition height="64" src="images/thumb/paleogirls0017.jpg" width="96" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="401" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="650" src="images/large/paleogirls0018.jpg" width="977" size="large"/>
+<rendition height="520" src="images/medium/paleogirls0018.jpg" width="782" size="medium"/>
+<rendition height="450" src="images/small/paleogirls0018.jpg" width="677" size="small"/>
+<rendition height="64" src="images/thumb/paleogirls0018.jpg" width="96" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="412" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="650" src="images/large/paleogirls0019.jpg" width="977" size="large"/>
+<rendition height="520" src="images/medium/paleogirls0019.jpg" width="782" size="medium"/>
+<rendition height="450" src="images/small/paleogirls0019.jpg" width="677" size="small"/>
+<rendition height="64" src="images/thumb/paleogirls0019.jpg" width="96" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="423" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="650" src="images/large/paleogirls0020.jpg" width="977" size="large"/>
+<rendition height="520" src="images/medium/paleogirls0020.jpg" width="782" size="medium"/>
+<rendition height="450" src="images/small/paleogirls0020.jpg" width="677" size="small"/>
+<rendition height="64" src="images/thumb/paleogirls0020.jpg" width="96" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="434" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="650" src="images/large/paleogirls0021.jpg" width="977" size="large"/>
+<rendition height="520" src="images/medium/paleogirls0021.jpg" width="782" size="medium"/>
+<rendition height="450" src="images/small/paleogirls0021.jpg" width="677" size="small"/>
+<rendition height="64" src="images/thumb/paleogirls0021.jpg" width="96" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="445" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="650" src="images/large/paleogirls0022.jpg" width="976" size="large"/>
+<rendition height="520" src="images/medium/paleogirls0022.jpg" width="781" size="medium"/>
+<rendition height="450" src="images/small/paleogirls0022.jpg" width="676" size="small"/>
+<rendition height="64" src="images/thumb/paleogirls0022.jpg" width="96" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="456" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="650" src="images/large/paleogirls0023.jpg" width="432" size="large"/>
+<rendition height="520" src="images/medium/paleogirls0023.jpg" width="345" size="medium"/>
+<rendition height="450" src="images/small/paleogirls0023.jpg" width="299" size="small"/>
+<rendition height="96" src="images/thumb/paleogirls0023.jpg" width="64" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="467" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="650" src="images/large/paleogirls0024.jpg" width="977" size="large"/>
+<rendition height="520" src="images/medium/paleogirls0024.jpg" width="782" size="medium"/>
+<rendition height="450" src="images/small/paleogirls0024.jpg" width="677" size="small"/>
+<rendition height="64" src="images/thumb/paleogirls0024.jpg" width="96" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="478" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="650" src="images/large/paleogirls0025.jpg" width="977" size="large"/>
+<rendition height="520" src="images/medium/paleogirls0025.jpg" width="782" size="medium"/>
+<rendition height="450" src="images/small/paleogirls0025.jpg" width="677" size="small"/>
+<rendition height="64" src="images/thumb/paleogirls0025.jpg" width="96" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="489" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="650" src="images/large/paleogirls0026.jpg" width="977" size="large"/>
+<rendition height="520" src="images/medium/paleogirls0026.jpg" width="782" size="medium"/>
+<rendition height="450" src="images/small/paleogirls0026.jpg" width="677" size="small"/>
+<rendition height="64" src="images/thumb/paleogirls0026.jpg" width="96" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="500" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="650" src="images/large/paleogirls0027.jpg" width="977" size="large"/>
+<rendition height="520" src="images/medium/paleogirls0027.jpg" width="782" size="medium"/>
+<rendition height="450" src="images/small/paleogirls0027.jpg" width="677" size="small"/>
+<rendition height="64" src="images/thumb/paleogirls0027.jpg" width="96" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="511" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="650" src="images/large/paleogirls0028.jpg" width="977" size="large"/>
+<rendition height="520" src="images/medium/paleogirls0028.jpg" width="782" size="medium"/>
+<rendition height="450" src="images/small/paleogirls0028.jpg" width="677" size="small"/>
+<rendition height="64" src="images/thumb/paleogirls0028.jpg" width="96" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="522" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="650" src="images/large/paleogirls0029.jpg" width="977" size="large"/>
+<rendition height="520" src="images/medium/paleogirls0029.jpg" width="782" size="medium"/>
+<rendition height="450" src="images/small/paleogirls0029.jpg" width="677" size="small"/>
+<rendition height="64" src="images/thumb/paleogirls0029.jpg" width="96" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="533" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="650" src="images/large/paleogirls0030.jpg" width="977" size="large"/>
+<rendition height="520" src="images/medium/paleogirls0030.jpg" width="782" size="medium"/>
+<rendition height="450" src="images/small/paleogirls0030.jpg" width="677" size="small"/>
+<rendition height="64" src="images/thumb/paleogirls0030.jpg" width="96" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="544" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="650" src="images/large/paleogirls0031.jpg" width="977" size="large"/>
+<rendition height="520" src="images/medium/paleogirls0031.jpg" width="782" size="medium"/>
+<rendition height="450" src="images/small/paleogirls0031.jpg" width="677" size="small"/>
+<rendition height="64" src="images/thumb/paleogirls0031.jpg" width="96" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="555" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="650" src="images/large/paleogirls0032.jpg" width="977" size="large"/>
+<rendition height="520" src="images/medium/paleogirls0032.jpg" width="782" size="medium"/>
+<rendition height="450" src="images/small/paleogirls0032.jpg" width="677" size="small"/>
+<rendition height="64" src="images/thumb/paleogirls0032.jpg" width="96" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="566" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="650" src="images/large/paleogirls0033.jpg" width="977" size="large"/>
+<rendition height="520" src="images/medium/paleogirls0033.jpg" width="782" size="medium"/>
+<rendition height="450" src="images/small/paleogirls0033.jpg" width="677" size="small"/>
+<rendition height="64" src="images/thumb/paleogirls0033.jpg" width="96" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="577" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="650" src="images/large/paleogirls0034.jpg" width="977" size="large"/>
+<rendition height="520" src="images/medium/paleogirls0034.jpg" width="782" size="medium"/>
+<rendition height="450" src="images/small/paleogirls0034.jpg" width="677" size="small"/>
+<rendition height="64" src="images/thumb/paleogirls0034.jpg" width="96" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="588" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="650" src="images/large/paleogirls0035.jpg" width="977" size="large"/>
+<rendition height="520" src="images/medium/paleogirls0035.jpg" width="782" size="medium"/>
+<rendition height="450" src="images/small/paleogirls0035.jpg" width="677" size="small"/>
+<rendition height="64" src="images/thumb/paleogirls0035.jpg" width="96" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="599" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="650" src="images/large/paleogirls0036.jpg" width="977" size="large"/>
+<rendition height="520" src="images/medium/paleogirls0036.jpg" width="782" size="medium"/>
+<rendition height="450" src="images/small/paleogirls0036.jpg" width="677" size="small"/>
+<rendition height="64" src="images/thumb/paleogirls0036.jpg" width="96" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="610" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="650" src="images/large/paleogirls0037.jpg" width="977" size="large"/>
+<rendition height="520" src="images/medium/paleogirls0037.jpg" width="782" size="medium"/>
+<rendition height="450" src="images/small/paleogirls0037.jpg" width="677" size="small"/>
+<rendition height="64" src="images/thumb/paleogirls0037.jpg" width="96" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="671" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="650" src="images/large/paleogirls0038.jpg" width="977" size="large"/>
+<rendition height="520" src="images/medium/paleogirls0038.jpg" width="782" size="medium"/>
+<rendition height="450" src="images/small/paleogirls0038.jpg" width="677" size="small"/>
+<rendition height="64" src="images/thumb/paleogirls0038.jpg" width="96" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="682" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="650" src="images/large/paleogirls0039.jpg" width="977" size="large"/>
+<rendition height="520" src="images/medium/paleogirls0039.jpg" width="782" size="medium"/>
+<rendition height="450" src="images/small/paleogirls0039.jpg" width="677" size="small"/>
+<rendition height="64" src="images/thumb/paleogirls0039.jpg" width="96" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="693" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="650" src="images/large/paleogirls0040.jpg" width="977" size="large"/>
+<rendition height="520" src="images/medium/paleogirls0040.jpg" width="782" size="medium"/>
+<rendition height="450" src="images/small/paleogirls0040.jpg" width="677" size="small"/>
+<rendition height="64" src="images/thumb/paleogirls0040.jpg" width="96" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="704" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="650" src="images/large/paleogirls0041.jpg" width="977" size="large"/>
+<rendition height="520" src="images/medium/paleogirls0041.jpg" width="782" size="medium"/>
+<rendition height="450" src="images/small/paleogirls0041.jpg" width="677" size="small"/>
+<rendition height="64" src="images/thumb/paleogirls0041.jpg" width="96" size="thumb"/>
+</renditions>
+</item>
+</media>
+</mediaGroup>

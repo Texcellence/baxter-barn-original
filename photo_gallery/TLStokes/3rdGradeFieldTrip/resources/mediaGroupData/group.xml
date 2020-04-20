@@ -1,0 +1,1492 @@
+<?xml version="1.0"?>
+<mediaGroup>
+<amgVersion version="1.3"/>
+<groupInfo>
+<author/>
+<authorApplication>Lightroom 3.3</authorApplication>
+<creationDate>04/22/11, 11:11:30 PM</creationDate>
+<galleryMaker name="Adobe Flash Gallery" version="1.3"/>
+<groupData groupID="" groupName=""/>
+<authorID/>
+<custom>
+<groupTitle>3rd Grade Field Trip</groupTitle>
+<groupDescription>&#x00A9;2011 T.L. Stokes/Flood Water Photography
+(All Rights Reserved for All Content and Photo )</groupDescription>
+<siteTitle>TL Stokes - Baxter Barn Photo Gallery</siteTitle>
+<contactName>T.L. Stokes</contactName>
+<contactEmail>floodwaterphotography.zenfolio.com</contactEmail>
+</custom>
+</groupInfo>
+<sizes>
+<imageSize maxheight="48" maxwidth="48" size="thumb"/>
+<imageSize maxheight="450" maxwidth="800" size="small"/>
+<imageSize maxheight="520" maxwidth="1040" size="medium"/>
+<imageSize maxheight="650" maxwidth="1150" size="large"/>
+</sizes>
+<media totalGallerySize="122">
+<item>
+<title></title>
+<description></description>
+<imageID id="1609" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="650" src="images/large/3rdGrade_100.jpg" width="435" size="large"/>
+<rendition height="520" src="images/medium/3rdGrade_100.jpg" width="348" size="medium"/>
+<rendition height="450" src="images/small/3rdGrade_100.jpg" width="301" size="small"/>
+<rendition height="48" src="images/thumb/3rdGrade_100.jpg" width="32" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="1620" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="650" src="images/large/3rdGrade_101.jpg" width="435" size="large"/>
+<rendition height="520" src="images/medium/3rdGrade_101.jpg" width="348" size="medium"/>
+<rendition height="450" src="images/small/3rdGrade_101.jpg" width="301" size="small"/>
+<rendition height="48" src="images/thumb/3rdGrade_101.jpg" width="32" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="1635" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="650" src="images/large/3rdGrade_102.jpg" width="435" size="large"/>
+<rendition height="520" src="images/medium/3rdGrade_102.jpg" width="348" size="medium"/>
+<rendition height="450" src="images/small/3rdGrade_102.jpg" width="301" size="small"/>
+<rendition height="48" src="images/thumb/3rdGrade_102.jpg" width="32" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="1646" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="650" src="images/large/3rdGrade_103.jpg" width="435" size="large"/>
+<rendition height="520" src="images/medium/3rdGrade_103.jpg" width="348" size="medium"/>
+<rendition height="450" src="images/small/3rdGrade_103.jpg" width="301" size="small"/>
+<rendition height="48" src="images/thumb/3rdGrade_103.jpg" width="32" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="1657" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="650" src="images/large/3rdGrade_104.jpg" width="435" size="large"/>
+<rendition height="520" src="images/medium/3rdGrade_104.jpg" width="348" size="medium"/>
+<rendition height="450" src="images/small/3rdGrade_104.jpg" width="301" size="small"/>
+<rendition height="48" src="images/thumb/3rdGrade_104.jpg" width="32" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="1674" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="650" src="images/large/3rdGrade_105.jpg" width="435" size="large"/>
+<rendition height="520" src="images/medium/3rdGrade_105.jpg" width="348" size="medium"/>
+<rendition height="450" src="images/small/3rdGrade_105.jpg" width="301" size="small"/>
+<rendition height="48" src="images/thumb/3rdGrade_105.jpg" width="32" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="1685" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="650" src="images/large/3rdGrade_106.jpg" width="435" size="large"/>
+<rendition height="520" src="images/medium/3rdGrade_106.jpg" width="348" size="medium"/>
+<rendition height="450" src="images/small/3rdGrade_106.jpg" width="301" size="small"/>
+<rendition height="48" src="images/thumb/3rdGrade_106.jpg" width="32" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="1696" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="650" src="images/large/3rdGrade_108.jpg" width="827" size="large"/>
+<rendition height="520" src="images/medium/3rdGrade_108.jpg" width="662" size="medium"/>
+<rendition height="450" src="images/small/3rdGrade_108.jpg" width="573" size="small"/>
+<rendition height="38" src="images/thumb/3rdGrade_108.jpg" width="48" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="1707" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="650" src="images/large/3rdGrade_110.jpg" width="926" size="large"/>
+<rendition height="520" src="images/medium/3rdGrade_110.jpg" width="741" size="medium"/>
+<rendition height="450" src="images/small/3rdGrade_110.jpg" width="641" size="small"/>
+<rendition height="34" src="images/thumb/3rdGrade_110.jpg" width="48" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="1718" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="650" src="images/large/3rdGrade_111.jpg" width="617" size="large"/>
+<rendition height="520" src="images/medium/3rdGrade_111.jpg" width="494" size="medium"/>
+<rendition height="450" src="images/small/3rdGrade_111.jpg" width="427" size="small"/>
+<rendition height="48" src="images/thumb/3rdGrade_111.jpg" width="46" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="1729" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="650" src="images/large/3rdGrade_113.jpg" width="435" size="large"/>
+<rendition height="520" src="images/medium/3rdGrade_113.jpg" width="348" size="medium"/>
+<rendition height="450" src="images/small/3rdGrade_113.jpg" width="301" size="small"/>
+<rendition height="48" src="images/thumb/3rdGrade_113.jpg" width="32" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="1740" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="650" src="images/large/3rdGrade_114.jpg" width="997" size="large"/>
+<rendition height="520" src="images/medium/3rdGrade_114.jpg" width="798" size="medium"/>
+<rendition height="450" src="images/small/3rdGrade_114.jpg" width="690" size="small"/>
+<rendition height="31" src="images/thumb/3rdGrade_114.jpg" width="48" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="1751" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="650" src="images/large/3rdGrade_116.jpg" width="435" size="large"/>
+<rendition height="520" src="images/medium/3rdGrade_116.jpg" width="348" size="medium"/>
+<rendition height="450" src="images/small/3rdGrade_116.jpg" width="301" size="small"/>
+<rendition height="48" src="images/thumb/3rdGrade_116.jpg" width="32" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="1762" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="650" src="images/large/3rdGrade_117.jpg" width="435" size="large"/>
+<rendition height="520" src="images/medium/3rdGrade_117.jpg" width="348" size="medium"/>
+<rendition height="450" src="images/small/3rdGrade_117.jpg" width="301" size="small"/>
+<rendition height="48" src="images/thumb/3rdGrade_117.jpg" width="32" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="1773" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="650" src="images/large/3rdGrade_118.jpg" width="435" size="large"/>
+<rendition height="520" src="images/medium/3rdGrade_118.jpg" width="348" size="medium"/>
+<rendition height="450" src="images/small/3rdGrade_118.jpg" width="301" size="small"/>
+<rendition height="48" src="images/thumb/3rdGrade_118.jpg" width="32" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="1784" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="650" src="images/large/3rdGrade_119.jpg" width="435" size="large"/>
+<rendition height="520" src="images/medium/3rdGrade_119.jpg" width="348" size="medium"/>
+<rendition height="450" src="images/small/3rdGrade_119.jpg" width="301" size="small"/>
+<rendition height="48" src="images/thumb/3rdGrade_119.jpg" width="32" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="1795" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="650" src="images/large/3rdGrade_12.jpg" width="346" size="large"/>
+<rendition height="520" src="images/medium/3rdGrade_12.jpg" width="277" size="medium"/>
+<rendition height="450" src="images/small/3rdGrade_12.jpg" width="240" size="small"/>
+<rendition height="48" src="images/thumb/3rdGrade_12.jpg" width="26" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="1806" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="650" src="images/large/3rdGrade_120.jpg" width="435" size="large"/>
+<rendition height="520" src="images/medium/3rdGrade_120.jpg" width="348" size="medium"/>
+<rendition height="450" src="images/small/3rdGrade_120.jpg" width="301" size="small"/>
+<rendition height="48" src="images/thumb/3rdGrade_120.jpg" width="32" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="1817" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="650" src="images/large/3rdGrade_121.jpg" width="972" size="large"/>
+<rendition height="520" src="images/medium/3rdGrade_121.jpg" width="778" size="medium"/>
+<rendition height="450" src="images/small/3rdGrade_121.jpg" width="673" size="small"/>
+<rendition height="32" src="images/thumb/3rdGrade_121.jpg" width="48" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="1828" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="650" src="images/large/3rdGrade_122.jpg" width="435" size="large"/>
+<rendition height="520" src="images/medium/3rdGrade_122.jpg" width="348" size="medium"/>
+<rendition height="450" src="images/small/3rdGrade_122.jpg" width="301" size="small"/>
+<rendition height="48" src="images/thumb/3rdGrade_122.jpg" width="32" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="1839" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="650" src="images/large/3rdGrade_123.jpg" width="435" size="large"/>
+<rendition height="520" src="images/medium/3rdGrade_123.jpg" width="348" size="medium"/>
+<rendition height="450" src="images/small/3rdGrade_123.jpg" width="301" size="small"/>
+<rendition height="48" src="images/thumb/3rdGrade_123.jpg" width="32" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="1850" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="650" src="images/large/3rdGrade_124.jpg" width="435" size="large"/>
+<rendition height="520" src="images/medium/3rdGrade_124.jpg" width="348" size="medium"/>
+<rendition height="450" src="images/small/3rdGrade_124.jpg" width="301" size="small"/>
+<rendition height="48" src="images/thumb/3rdGrade_124.jpg" width="32" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="1861" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="650" src="images/large/3rdGrade_125.jpg" width="435" size="large"/>
+<rendition height="520" src="images/medium/3rdGrade_125.jpg" width="348" size="medium"/>
+<rendition height="450" src="images/small/3rdGrade_125.jpg" width="301" size="small"/>
+<rendition height="48" src="images/thumb/3rdGrade_125.jpg" width="32" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="1872" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="650" src="images/large/3rdGrade_126.jpg" width="435" size="large"/>
+<rendition height="520" src="images/medium/3rdGrade_126.jpg" width="348" size="medium"/>
+<rendition height="450" src="images/small/3rdGrade_126.jpg" width="301" size="small"/>
+<rendition height="48" src="images/thumb/3rdGrade_126.jpg" width="32" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="1883" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="650" src="images/large/3rdGrade_127.jpg" width="435" size="large"/>
+<rendition height="520" src="images/medium/3rdGrade_127.jpg" width="348" size="medium"/>
+<rendition height="450" src="images/small/3rdGrade_127.jpg" width="301" size="small"/>
+<rendition height="48" src="images/thumb/3rdGrade_127.jpg" width="32" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="1934" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="650" src="images/large/3rdGrade_128.jpg" width="435" size="large"/>
+<rendition height="520" src="images/medium/3rdGrade_128.jpg" width="348" size="medium"/>
+<rendition height="450" src="images/small/3rdGrade_128.jpg" width="301" size="small"/>
+<rendition height="48" src="images/thumb/3rdGrade_128.jpg" width="32" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="1945" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="650" src="images/large/3rdGrade_129.jpg" width="435" size="large"/>
+<rendition height="520" src="images/medium/3rdGrade_129.jpg" width="348" size="medium"/>
+<rendition height="450" src="images/small/3rdGrade_129.jpg" width="301" size="small"/>
+<rendition height="48" src="images/thumb/3rdGrade_129.jpg" width="32" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="1956" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="650" src="images/large/3rdGrade_13.jpg" width="469" size="large"/>
+<rendition height="520" src="images/medium/3rdGrade_13.jpg" width="375" size="medium"/>
+<rendition height="450" src="images/small/3rdGrade_13.jpg" width="325" size="small"/>
+<rendition height="48" src="images/thumb/3rdGrade_13.jpg" width="35" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="1967" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="650" src="images/large/3rdGrade_130.jpg" width="435" size="large"/>
+<rendition height="520" src="images/medium/3rdGrade_130.jpg" width="348" size="medium"/>
+<rendition height="450" src="images/small/3rdGrade_130.jpg" width="301" size="small"/>
+<rendition height="48" src="images/thumb/3rdGrade_130.jpg" width="32" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="1978" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="650" src="images/large/3rdGrade_131.jpg" width="435" size="large"/>
+<rendition height="520" src="images/medium/3rdGrade_131.jpg" width="348" size="medium"/>
+<rendition height="450" src="images/small/3rdGrade_131.jpg" width="301" size="small"/>
+<rendition height="48" src="images/thumb/3rdGrade_131.jpg" width="32" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="1989" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="650" src="images/large/3rdGrade_132.jpg" width="435" size="large"/>
+<rendition height="520" src="images/medium/3rdGrade_132.jpg" width="348" size="medium"/>
+<rendition height="450" src="images/small/3rdGrade_132.jpg" width="301" size="small"/>
+<rendition height="48" src="images/thumb/3rdGrade_132.jpg" width="32" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="2000" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="650" src="images/large/3rdGrade_133.jpg" width="435" size="large"/>
+<rendition height="520" src="images/medium/3rdGrade_133.jpg" width="348" size="medium"/>
+<rendition height="450" src="images/small/3rdGrade_133.jpg" width="301" size="small"/>
+<rendition height="48" src="images/thumb/3rdGrade_133.jpg" width="32" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="2011" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="650" src="images/large/3rdGrade_134.jpg" width="435" size="large"/>
+<rendition height="520" src="images/medium/3rdGrade_134.jpg" width="348" size="medium"/>
+<rendition height="450" src="images/small/3rdGrade_134.jpg" width="301" size="small"/>
+<rendition height="48" src="images/thumb/3rdGrade_134.jpg" width="32" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="2022" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="650" src="images/large/3rdGrade_135.jpg" width="972" size="large"/>
+<rendition height="520" src="images/medium/3rdGrade_135.jpg" width="778" size="medium"/>
+<rendition height="450" src="images/small/3rdGrade_135.jpg" width="673" size="small"/>
+<rendition height="32" src="images/thumb/3rdGrade_135.jpg" width="48" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="2033" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="650" src="images/large/3rdGrade_136.jpg" width="712" size="large"/>
+<rendition height="520" src="images/medium/3rdGrade_136.jpg" width="570" size="medium"/>
+<rendition height="450" src="images/small/3rdGrade_136.jpg" width="493" size="small"/>
+<rendition height="44" src="images/thumb/3rdGrade_136.jpg" width="48" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="2044" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="650" src="images/large/3rdGrade_137.jpg" width="789" size="large"/>
+<rendition height="520" src="images/medium/3rdGrade_137.jpg" width="631" size="medium"/>
+<rendition height="450" src="images/small/3rdGrade_137.jpg" width="546" size="small"/>
+<rendition height="40" src="images/thumb/3rdGrade_137.jpg" width="48" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="2055" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="649" src="images/large/3rdGrade_139.jpg" width="422" size="large"/>
+<rendition height="520" src="images/medium/3rdGrade_139.jpg" width="338" size="medium"/>
+<rendition height="450" src="images/small/3rdGrade_139.jpg" width="293" size="small"/>
+<rendition height="48" src="images/thumb/3rdGrade_139.jpg" width="31" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="2066" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="650" src="images/large/3rdGrade_140.jpg" width="972" size="large"/>
+<rendition height="520" src="images/medium/3rdGrade_140.jpg" width="778" size="medium"/>
+<rendition height="450" src="images/small/3rdGrade_140.jpg" width="673" size="small"/>
+<rendition height="32" src="images/thumb/3rdGrade_140.jpg" width="48" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="2077" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="650" src="images/large/3rdGrade_141.jpg" width="524" size="large"/>
+<rendition height="520" src="images/medium/3rdGrade_141.jpg" width="419" size="medium"/>
+<rendition height="450" src="images/small/3rdGrade_141.jpg" width="363" size="small"/>
+<rendition height="48" src="images/thumb/3rdGrade_141.jpg" width="39" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="2088" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="650" src="images/large/3rdGrade_143.jpg" width="435" size="large"/>
+<rendition height="520" src="images/medium/3rdGrade_143.jpg" width="348" size="medium"/>
+<rendition height="450" src="images/small/3rdGrade_143.jpg" width="301" size="small"/>
+<rendition height="48" src="images/thumb/3rdGrade_143.jpg" width="32" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="2099" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="650" src="images/large/3rdGrade_144.jpg" width="435" size="large"/>
+<rendition height="520" src="images/medium/3rdGrade_144.jpg" width="348" size="medium"/>
+<rendition height="450" src="images/small/3rdGrade_144.jpg" width="301" size="small"/>
+<rendition height="48" src="images/thumb/3rdGrade_144.jpg" width="32" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="2110" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="650" src="images/large/3rdGrade_145.jpg" width="469" size="large"/>
+<rendition height="520" src="images/medium/3rdGrade_145.jpg" width="375" size="medium"/>
+<rendition height="450" src="images/small/3rdGrade_145.jpg" width="325" size="small"/>
+<rendition height="48" src="images/thumb/3rdGrade_145.jpg" width="35" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="2121" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="650" src="images/large/3rdGrade_146.jpg" width="435" size="large"/>
+<rendition height="520" src="images/medium/3rdGrade_146.jpg" width="348" size="medium"/>
+<rendition height="450" src="images/small/3rdGrade_146.jpg" width="301" size="small"/>
+<rendition height="48" src="images/thumb/3rdGrade_146.jpg" width="32" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="2132" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="650" src="images/large/3rdGrade_147.jpg" width="972" size="large"/>
+<rendition height="520" src="images/medium/3rdGrade_147.jpg" width="778" size="medium"/>
+<rendition height="450" src="images/small/3rdGrade_147.jpg" width="673" size="small"/>
+<rendition height="32" src="images/thumb/3rdGrade_147.jpg" width="48" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="2143" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="650" src="images/large/3rdGrade_148.jpg" width="435" size="large"/>
+<rendition height="520" src="images/medium/3rdGrade_148.jpg" width="348" size="medium"/>
+<rendition height="450" src="images/small/3rdGrade_148.jpg" width="301" size="small"/>
+<rendition height="48" src="images/thumb/3rdGrade_148.jpg" width="32" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="2154" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="650" src="images/large/3rdGrade_149.jpg" width="435" size="large"/>
+<rendition height="520" src="images/medium/3rdGrade_149.jpg" width="348" size="medium"/>
+<rendition height="450" src="images/small/3rdGrade_149.jpg" width="301" size="small"/>
+<rendition height="48" src="images/thumb/3rdGrade_149.jpg" width="32" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="2165" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="650" src="images/large/3rdGrade_15.jpg" width="875" size="large"/>
+<rendition height="520" src="images/medium/3rdGrade_15.jpg" width="700" size="medium"/>
+<rendition height="450" src="images/small/3rdGrade_15.jpg" width="606" size="small"/>
+<rendition height="36" src="images/thumb/3rdGrade_15.jpg" width="48" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="2176" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="650" src="images/large/3rdGrade_150.jpg" width="435" size="large"/>
+<rendition height="520" src="images/medium/3rdGrade_150.jpg" width="348" size="medium"/>
+<rendition height="450" src="images/small/3rdGrade_150.jpg" width="301" size="small"/>
+<rendition height="48" src="images/thumb/3rdGrade_150.jpg" width="32" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="2187" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="650" src="images/large/3rdGrade_151.jpg" width="325" size="large"/>
+<rendition height="520" src="images/medium/3rdGrade_151.jpg" width="260" size="medium"/>
+<rendition height="450" src="images/small/3rdGrade_151.jpg" width="225" size="small"/>
+<rendition height="48" src="images/thumb/3rdGrade_151.jpg" width="24" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="2198" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="650" src="images/large/3rdGrade_152.jpg" width="435" size="large"/>
+<rendition height="520" src="images/medium/3rdGrade_152.jpg" width="348" size="medium"/>
+<rendition height="450" src="images/small/3rdGrade_152.jpg" width="301" size="small"/>
+<rendition height="48" src="images/thumb/3rdGrade_152.jpg" width="32" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="2259" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="650" src="images/large/3rdGrade_153.jpg" width="489" size="large"/>
+<rendition height="520" src="images/medium/3rdGrade_153.jpg" width="391" size="medium"/>
+<rendition height="450" src="images/small/3rdGrade_153.jpg" width="339" size="small"/>
+<rendition height="48" src="images/thumb/3rdGrade_153.jpg" width="36" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="2270" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="650" src="images/large/3rdGrade_155.jpg" width="415" size="large"/>
+<rendition height="520" src="images/medium/3rdGrade_155.jpg" width="332" size="medium"/>
+<rendition height="450" src="images/small/3rdGrade_155.jpg" width="287" size="small"/>
+<rendition height="48" src="images/thumb/3rdGrade_155.jpg" width="31" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="2281" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="650" src="images/large/3rdGrade_158.jpg" width="435" size="large"/>
+<rendition height="520" src="images/medium/3rdGrade_158.jpg" width="348" size="medium"/>
+<rendition height="450" src="images/small/3rdGrade_158.jpg" width="301" size="small"/>
+<rendition height="48" src="images/thumb/3rdGrade_158.jpg" width="32" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="2292" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="650" src="images/large/3rdGrade_159.jpg" width="590" size="large"/>
+<rendition height="520" src="images/medium/3rdGrade_159.jpg" width="472" size="medium"/>
+<rendition height="450" src="images/small/3rdGrade_159.jpg" width="408" size="small"/>
+<rendition height="48" src="images/thumb/3rdGrade_159.jpg" width="44" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="2303" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="650" src="images/large/3rdGrade_16.jpg" width="435" size="large"/>
+<rendition height="520" src="images/medium/3rdGrade_16.jpg" width="348" size="medium"/>
+<rendition height="450" src="images/small/3rdGrade_16.jpg" width="301" size="small"/>
+<rendition height="48" src="images/thumb/3rdGrade_16.jpg" width="32" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="2314" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="650" src="images/large/3rdGrade_160.jpg" width="972" size="large"/>
+<rendition height="520" src="images/medium/3rdGrade_160.jpg" width="778" size="medium"/>
+<rendition height="450" src="images/small/3rdGrade_160.jpg" width="673" size="small"/>
+<rendition height="32" src="images/thumb/3rdGrade_160.jpg" width="48" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="2325" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="650" src="images/large/3rdGrade_161.jpg" width="435" size="large"/>
+<rendition height="520" src="images/medium/3rdGrade_161.jpg" width="348" size="medium"/>
+<rendition height="450" src="images/small/3rdGrade_161.jpg" width="301" size="small"/>
+<rendition height="48" src="images/thumb/3rdGrade_161.jpg" width="32" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="2336" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="650" src="images/large/3rdGrade_168.jpg" width="660" size="large"/>
+<rendition height="520" src="images/medium/3rdGrade_168.jpg" width="528" size="medium"/>
+<rendition height="450" src="images/small/3rdGrade_168.jpg" width="457" size="small"/>
+<rendition height="47" src="images/thumb/3rdGrade_168.jpg" width="48" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="2347" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="650" src="images/large/3rdGrade_17.jpg" width="435" size="large"/>
+<rendition height="520" src="images/medium/3rdGrade_17.jpg" width="348" size="medium"/>
+<rendition height="450" src="images/small/3rdGrade_17.jpg" width="301" size="small"/>
+<rendition height="48" src="images/thumb/3rdGrade_17.jpg" width="32" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="2358" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="650" src="images/large/3rdGrade_18.jpg" width="655" size="large"/>
+<rendition height="520" src="images/medium/3rdGrade_18.jpg" width="524" size="medium"/>
+<rendition height="450" src="images/small/3rdGrade_18.jpg" width="453" size="small"/>
+<rendition height="48" src="images/thumb/3rdGrade_18.jpg" width="48" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="2369" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="650" src="images/large/3rdGrade_19.jpg" width="476" size="large"/>
+<rendition height="520" src="images/medium/3rdGrade_19.jpg" width="381" size="medium"/>
+<rendition height="450" src="images/small/3rdGrade_19.jpg" width="330" size="small"/>
+<rendition height="48" src="images/thumb/3rdGrade_19.jpg" width="35" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="2380" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="650" src="images/large/3rdGrade_2.jpg" width="455" size="large"/>
+<rendition height="520" src="images/medium/3rdGrade_2.jpg" width="364" size="medium"/>
+<rendition height="450" src="images/small/3rdGrade_2.jpg" width="315" size="small"/>
+<rendition height="48" src="images/thumb/3rdGrade_2.jpg" width="34" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="2391" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="650" src="images/large/3rdGrade_20.jpg" width="435" size="large"/>
+<rendition height="520" src="images/medium/3rdGrade_20.jpg" width="348" size="medium"/>
+<rendition height="450" src="images/small/3rdGrade_20.jpg" width="301" size="small"/>
+<rendition height="48" src="images/thumb/3rdGrade_20.jpg" width="32" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="2402" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="650" src="images/large/3rdGrade_21.jpg" width="874" size="large"/>
+<rendition height="520" src="images/medium/3rdGrade_21.jpg" width="699" size="medium"/>
+<rendition height="450" src="images/small/3rdGrade_21.jpg" width="605" size="small"/>
+<rendition height="36" src="images/thumb/3rdGrade_21.jpg" width="48" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="2413" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="650" src="images/large/3rdGrade_22.jpg" width="1119" size="large"/>
+<rendition height="520" src="images/medium/3rdGrade_22.jpg" width="895" size="medium"/>
+<rendition height="450" src="images/small/3rdGrade_22.jpg" width="775" size="small"/>
+<rendition height="28" src="images/thumb/3rdGrade_22.jpg" width="48" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="2424" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="650" src="images/large/3rdGrade_24.jpg" width="731" size="large"/>
+<rendition height="520" src="images/medium/3rdGrade_24.jpg" width="585" size="medium"/>
+<rendition height="450" src="images/small/3rdGrade_24.jpg" width="506" size="small"/>
+<rendition height="43" src="images/thumb/3rdGrade_24.jpg" width="48" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="2435" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="650" src="images/large/3rdGrade_25.jpg" width="959" size="large"/>
+<rendition height="520" src="images/medium/3rdGrade_25.jpg" width="767" size="medium"/>
+<rendition height="450" src="images/small/3rdGrade_25.jpg" width="664" size="small"/>
+<rendition height="33" src="images/thumb/3rdGrade_25.jpg" width="48" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="2446" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="650" src="images/large/3rdGrade_28.jpg" width="900" size="large"/>
+<rendition height="520" src="images/medium/3rdGrade_28.jpg" width="720" size="medium"/>
+<rendition height="450" src="images/small/3rdGrade_28.jpg" width="623" size="small"/>
+<rendition height="35" src="images/thumb/3rdGrade_28.jpg" width="48" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="2457" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="650" src="images/large/3rdGrade_3.jpg" width="435" size="large"/>
+<rendition height="520" src="images/medium/3rdGrade_3.jpg" width="348" size="medium"/>
+<rendition height="450" src="images/small/3rdGrade_3.jpg" width="301" size="small"/>
+<rendition height="48" src="images/thumb/3rdGrade_3.jpg" width="32" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="2468" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="650" src="images/large/3rdGrade_30.jpg" width="819" size="large"/>
+<rendition height="520" src="images/medium/3rdGrade_30.jpg" width="655" size="medium"/>
+<rendition height="450" src="images/small/3rdGrade_30.jpg" width="567" size="small"/>
+<rendition height="38" src="images/thumb/3rdGrade_30.jpg" width="48" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="2479" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="650" src="images/large/3rdGrade_31.jpg" width="485" size="large"/>
+<rendition height="520" src="images/medium/3rdGrade_31.jpg" width="388" size="medium"/>
+<rendition height="450" src="images/small/3rdGrade_31.jpg" width="336" size="small"/>
+<rendition height="48" src="images/thumb/3rdGrade_31.jpg" width="36" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="2490" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="650" src="images/large/3rdGrade_32.jpg" width="397" size="large"/>
+<rendition height="520" src="images/medium/3rdGrade_32.jpg" width="318" size="medium"/>
+<rendition height="450" src="images/small/3rdGrade_32.jpg" width="275" size="small"/>
+<rendition height="48" src="images/thumb/3rdGrade_32.jpg" width="29" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="2501" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="650" src="images/large/3rdGrade_33.jpg" width="387" size="large"/>
+<rendition height="520" src="images/medium/3rdGrade_33.jpg" width="310" size="medium"/>
+<rendition height="450" src="images/small/3rdGrade_33.jpg" width="268" size="small"/>
+<rendition height="48" src="images/thumb/3rdGrade_33.jpg" width="29" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="2512" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="650" src="images/large/3rdGrade_34.jpg" width="660" size="large"/>
+<rendition height="520" src="images/medium/3rdGrade_34.jpg" width="528" size="medium"/>
+<rendition height="450" src="images/small/3rdGrade_34.jpg" width="457" size="small"/>
+<rendition height="47" src="images/thumb/3rdGrade_34.jpg" width="48" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="2523" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="650" src="images/large/3rdGrade_35.jpg" width="357" size="large"/>
+<rendition height="520" src="images/medium/3rdGrade_35.jpg" width="286" size="medium"/>
+<rendition height="450" src="images/small/3rdGrade_35.jpg" width="247" size="small"/>
+<rendition height="48" src="images/thumb/3rdGrade_35.jpg" width="26" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="2584" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="650" src="images/large/3rdGrade_36.jpg" width="363" size="large"/>
+<rendition height="520" src="images/medium/3rdGrade_36.jpg" width="290" size="medium"/>
+<rendition height="450" src="images/small/3rdGrade_36.jpg" width="251" size="small"/>
+<rendition height="48" src="images/thumb/3rdGrade_36.jpg" width="27" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="2595" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="650" src="images/large/3rdGrade_37.jpg" width="497" size="large"/>
+<rendition height="520" src="images/medium/3rdGrade_37.jpg" width="398" size="medium"/>
+<rendition height="450" src="images/small/3rdGrade_37.jpg" width="344" size="small"/>
+<rendition height="48" src="images/thumb/3rdGrade_37.jpg" width="37" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="2606" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="650" src="images/large/3rdGrade_38.jpg" width="387" size="large"/>
+<rendition height="520" src="images/medium/3rdGrade_38.jpg" width="310" size="medium"/>
+<rendition height="450" src="images/small/3rdGrade_38.jpg" width="268" size="small"/>
+<rendition height="48" src="images/thumb/3rdGrade_38.jpg" width="29" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="2617" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="649" src="images/large/3rdGrade_39.jpg" width="501" size="large"/>
+<rendition height="520" src="images/medium/3rdGrade_39.jpg" width="401" size="medium"/>
+<rendition height="450" src="images/small/3rdGrade_39.jpg" width="347" size="small"/>
+<rendition height="48" src="images/thumb/3rdGrade_39.jpg" width="37" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="2628" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="650" src="images/large/3rdGrade_4.jpg" width="435" size="large"/>
+<rendition height="520" src="images/medium/3rdGrade_4.jpg" width="348" size="medium"/>
+<rendition height="450" src="images/small/3rdGrade_4.jpg" width="301" size="small"/>
+<rendition height="48" src="images/thumb/3rdGrade_4.jpg" width="32" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="2639" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="650" src="images/large/3rdGrade_40.jpg" width="444" size="large"/>
+<rendition height="520" src="images/medium/3rdGrade_40.jpg" width="355" size="medium"/>
+<rendition height="450" src="images/small/3rdGrade_40.jpg" width="307" size="small"/>
+<rendition height="48" src="images/thumb/3rdGrade_40.jpg" width="33" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="2650" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="650" src="images/large/3rdGrade_41.jpg" width="400" size="large"/>
+<rendition height="520" src="images/medium/3rdGrade_41.jpg" width="320" size="medium"/>
+<rendition height="450" src="images/small/3rdGrade_41.jpg" width="277" size="small"/>
+<rendition height="48" src="images/thumb/3rdGrade_41.jpg" width="30" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="2661" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="650" src="images/large/3rdGrade_42.jpg" width="413" size="large"/>
+<rendition height="520" src="images/medium/3rdGrade_42.jpg" width="330" size="medium"/>
+<rendition height="450" src="images/small/3rdGrade_42.jpg" width="286" size="small"/>
+<rendition height="48" src="images/thumb/3rdGrade_42.jpg" width="30" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="2672" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="649" src="images/large/3rdGrade_43.jpg" width="421" size="large"/>
+<rendition height="520" src="images/medium/3rdGrade_43.jpg" width="337" size="medium"/>
+<rendition height="450" src="images/small/3rdGrade_43.jpg" width="292" size="small"/>
+<rendition height="48" src="images/thumb/3rdGrade_43.jpg" width="31" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="2683" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="650" src="images/large/3rdGrade_45.jpg" width="862" size="large"/>
+<rendition height="520" src="images/medium/3rdGrade_45.jpg" width="690" size="medium"/>
+<rendition height="450" src="images/small/3rdGrade_45.jpg" width="597" size="small"/>
+<rendition height="36" src="images/thumb/3rdGrade_45.jpg" width="48" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="2694" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="650" src="images/large/3rdGrade_46.jpg" width="729" size="large"/>
+<rendition height="520" src="images/medium/3rdGrade_46.jpg" width="583" size="medium"/>
+<rendition height="450" src="images/small/3rdGrade_46.jpg" width="505" size="small"/>
+<rendition height="43" src="images/thumb/3rdGrade_46.jpg" width="48" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="2705" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="650" src="images/large/3rdGrade_47.jpg" width="506" size="large"/>
+<rendition height="520" src="images/medium/3rdGrade_47.jpg" width="405" size="medium"/>
+<rendition height="450" src="images/small/3rdGrade_47.jpg" width="350" size="small"/>
+<rendition height="48" src="images/thumb/3rdGrade_47.jpg" width="37" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="2716" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="650" src="images/large/3rdGrade_48.jpg" width="573" size="large"/>
+<rendition height="520" src="images/medium/3rdGrade_48.jpg" width="458" size="medium"/>
+<rendition height="450" src="images/small/3rdGrade_48.jpg" width="397" size="small"/>
+<rendition height="48" src="images/thumb/3rdGrade_48.jpg" width="42" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="2727" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="650" src="images/large/3rdGrade_5.jpg" width="385" size="large"/>
+<rendition height="520" src="images/medium/3rdGrade_5.jpg" width="308" size="medium"/>
+<rendition height="450" src="images/small/3rdGrade_5.jpg" width="267" size="small"/>
+<rendition height="48" src="images/thumb/3rdGrade_5.jpg" width="28" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="2738" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="650" src="images/large/3rdGrade_50.jpg" width="800" size="large"/>
+<rendition height="520" src="images/medium/3rdGrade_50.jpg" width="640" size="medium"/>
+<rendition height="450" src="images/small/3rdGrade_50.jpg" width="554" size="small"/>
+<rendition height="39" src="images/thumb/3rdGrade_50.jpg" width="48" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="2749" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="650" src="images/large/3rdGrade_51.jpg" width="972" size="large"/>
+<rendition height="520" src="images/medium/3rdGrade_51.jpg" width="778" size="medium"/>
+<rendition height="450" src="images/small/3rdGrade_51.jpg" width="673" size="small"/>
+<rendition height="32" src="images/thumb/3rdGrade_51.jpg" width="48" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="2760" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="650" src="images/large/3rdGrade_52.jpg" width="745" size="large"/>
+<rendition height="520" src="images/medium/3rdGrade_52.jpg" width="596" size="medium"/>
+<rendition height="450" src="images/small/3rdGrade_52.jpg" width="516" size="small"/>
+<rendition height="42" src="images/thumb/3rdGrade_52.jpg" width="48" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="2771" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="650" src="images/large/3rdGrade_53.jpg" width="435" size="large"/>
+<rendition height="520" src="images/medium/3rdGrade_53.jpg" width="348" size="medium"/>
+<rendition height="450" src="images/small/3rdGrade_53.jpg" width="301" size="small"/>
+<rendition height="48" src="images/thumb/3rdGrade_53.jpg" width="32" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="2782" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="650" src="images/large/3rdGrade_54.jpg" width="661" size="large"/>
+<rendition height="520" src="images/medium/3rdGrade_54.jpg" width="529" size="medium"/>
+<rendition height="450" src="images/small/3rdGrade_54.jpg" width="458" size="small"/>
+<rendition height="47" src="images/thumb/3rdGrade_54.jpg" width="48" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="2793" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="650" src="images/large/3rdGrade_56.jpg" width="488" size="large"/>
+<rendition height="520" src="images/medium/3rdGrade_56.jpg" width="390" size="medium"/>
+<rendition height="450" src="images/small/3rdGrade_56.jpg" width="338" size="small"/>
+<rendition height="48" src="images/thumb/3rdGrade_56.jpg" width="36" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="2804" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="650" src="images/large/3rdGrade_57.jpg" width="435" size="large"/>
+<rendition height="520" src="images/medium/3rdGrade_57.jpg" width="348" size="medium"/>
+<rendition height="450" src="images/small/3rdGrade_57.jpg" width="301" size="small"/>
+<rendition height="48" src="images/thumb/3rdGrade_57.jpg" width="32" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="2815" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="650" src="images/large/3rdGrade_58.jpg" width="972" size="large"/>
+<rendition height="520" src="images/medium/3rdGrade_58.jpg" width="778" size="medium"/>
+<rendition height="450" src="images/small/3rdGrade_58.jpg" width="673" size="small"/>
+<rendition height="32" src="images/thumb/3rdGrade_58.jpg" width="48" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="2826" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="650" src="images/large/3rdGrade_6.jpg" width="435" size="large"/>
+<rendition height="520" src="images/medium/3rdGrade_6.jpg" width="348" size="medium"/>
+<rendition height="450" src="images/small/3rdGrade_6.jpg" width="301" size="small"/>
+<rendition height="48" src="images/thumb/3rdGrade_6.jpg" width="32" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="2837" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="650" src="images/large/3rdGrade_60.jpg" width="435" size="large"/>
+<rendition height="520" src="images/medium/3rdGrade_60.jpg" width="348" size="medium"/>
+<rendition height="450" src="images/small/3rdGrade_60.jpg" width="301" size="small"/>
+<rendition height="48" src="images/thumb/3rdGrade_60.jpg" width="32" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="2848" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="650" src="images/large/3rdGrade_61.jpg" width="956" size="large"/>
+<rendition height="520" src="images/medium/3rdGrade_61.jpg" width="765" size="medium"/>
+<rendition height="450" src="images/small/3rdGrade_61.jpg" width="662" size="small"/>
+<rendition height="33" src="images/thumb/3rdGrade_61.jpg" width="48" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="2909" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="650" src="images/large/3rdGrade_62.jpg" width="435" size="large"/>
+<rendition height="520" src="images/medium/3rdGrade_62.jpg" width="348" size="medium"/>
+<rendition height="450" src="images/small/3rdGrade_62.jpg" width="301" size="small"/>
+<rendition height="48" src="images/thumb/3rdGrade_62.jpg" width="32" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="2920" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="650" src="images/large/3rdGrade_63.jpg" width="435" size="large"/>
+<rendition height="520" src="images/medium/3rdGrade_63.jpg" width="348" size="medium"/>
+<rendition height="450" src="images/small/3rdGrade_63.jpg" width="301" size="small"/>
+<rendition height="48" src="images/thumb/3rdGrade_63.jpg" width="32" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="2931" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="650" src="images/large/3rdGrade_67.jpg" width="435" size="large"/>
+<rendition height="520" src="images/medium/3rdGrade_67.jpg" width="348" size="medium"/>
+<rendition height="450" src="images/small/3rdGrade_67.jpg" width="301" size="small"/>
+<rendition height="48" src="images/thumb/3rdGrade_67.jpg" width="32" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="2942" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="650" src="images/large/3rdGrade_7.jpg" width="435" size="large"/>
+<rendition height="520" src="images/medium/3rdGrade_7.jpg" width="348" size="medium"/>
+<rendition height="450" src="images/small/3rdGrade_7.jpg" width="301" size="small"/>
+<rendition height="48" src="images/thumb/3rdGrade_7.jpg" width="32" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="2953" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="650" src="images/large/3rdGrade_72.jpg" width="435" size="large"/>
+<rendition height="520" src="images/medium/3rdGrade_72.jpg" width="348" size="medium"/>
+<rendition height="450" src="images/small/3rdGrade_72.jpg" width="301" size="small"/>
+<rendition height="48" src="images/thumb/3rdGrade_72.jpg" width="32" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="2964" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="650" src="images/large/3rdGrade_74.jpg" width="803" size="large"/>
+<rendition height="520" src="images/medium/3rdGrade_74.jpg" width="642" size="medium"/>
+<rendition height="450" src="images/small/3rdGrade_74.jpg" width="556" size="small"/>
+<rendition height="39" src="images/thumb/3rdGrade_74.jpg" width="48" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="2975" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="650" src="images/large/3rdGrade_76.jpg" width="435" size="large"/>
+<rendition height="520" src="images/medium/3rdGrade_76.jpg" width="348" size="medium"/>
+<rendition height="450" src="images/small/3rdGrade_76.jpg" width="301" size="small"/>
+<rendition height="48" src="images/thumb/3rdGrade_76.jpg" width="32" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="2986" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="650" src="images/large/3rdGrade_77.jpg" width="435" size="large"/>
+<rendition height="520" src="images/medium/3rdGrade_77.jpg" width="348" size="medium"/>
+<rendition height="450" src="images/small/3rdGrade_77.jpg" width="301" size="small"/>
+<rendition height="48" src="images/thumb/3rdGrade_77.jpg" width="32" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="2997" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="650" src="images/large/3rdGrade_78.jpg" width="684" size="large"/>
+<rendition height="520" src="images/medium/3rdGrade_78.jpg" width="547" size="medium"/>
+<rendition height="450" src="images/small/3rdGrade_78.jpg" width="474" size="small"/>
+<rendition height="46" src="images/thumb/3rdGrade_78.jpg" width="48" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="3008" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="650" src="images/large/3rdGrade_79.jpg" width="656" size="large"/>
+<rendition height="520" src="images/medium/3rdGrade_79.jpg" width="525" size="medium"/>
+<rendition height="450" src="images/small/3rdGrade_79.jpg" width="454" size="small"/>
+<rendition height="48" src="images/thumb/3rdGrade_79.jpg" width="48" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="3019" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="650" src="images/large/3rdGrade_8.jpg" width="435" size="large"/>
+<rendition height="520" src="images/medium/3rdGrade_8.jpg" width="348" size="medium"/>
+<rendition height="450" src="images/small/3rdGrade_8.jpg" width="301" size="small"/>
+<rendition height="48" src="images/thumb/3rdGrade_8.jpg" width="32" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="3030" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="650" src="images/large/3rdGrade_81.jpg" width="671" size="large"/>
+<rendition height="520" src="images/medium/3rdGrade_81.jpg" width="537" size="medium"/>
+<rendition height="450" src="images/small/3rdGrade_81.jpg" width="465" size="small"/>
+<rendition height="46" src="images/thumb/3rdGrade_81.jpg" width="48" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="3041" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="650" src="images/large/3rdGrade_83.jpg" width="421" size="large"/>
+<rendition height="520" src="images/medium/3rdGrade_83.jpg" width="337" size="medium"/>
+<rendition height="450" src="images/small/3rdGrade_83.jpg" width="291" size="small"/>
+<rendition height="48" src="images/thumb/3rdGrade_83.jpg" width="31" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="3052" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="650" src="images/large/3rdGrade_84.jpg" width="940" size="large"/>
+<rendition height="520" src="images/medium/3rdGrade_84.jpg" width="752" size="medium"/>
+<rendition height="450" src="images/small/3rdGrade_84.jpg" width="651" size="small"/>
+<rendition height="33" src="images/thumb/3rdGrade_84.jpg" width="48" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="3063" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="650" src="images/large/3rdGrade_85.jpg" width="900" size="large"/>
+<rendition height="520" src="images/medium/3rdGrade_85.jpg" width="720" size="medium"/>
+<rendition height="450" src="images/small/3rdGrade_85.jpg" width="623" size="small"/>
+<rendition height="35" src="images/thumb/3rdGrade_85.jpg" width="48" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="3074" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="650" src="images/large/3rdGrade_87.jpg" width="827" size="large"/>
+<rendition height="520" src="images/medium/3rdGrade_87.jpg" width="662" size="medium"/>
+<rendition height="450" src="images/small/3rdGrade_87.jpg" width="573" size="small"/>
+<rendition height="38" src="images/thumb/3rdGrade_87.jpg" width="48" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="3085" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="650" src="images/large/3rdGrade_92.jpg" width="972" size="large"/>
+<rendition height="520" src="images/medium/3rdGrade_92.jpg" width="778" size="medium"/>
+<rendition height="450" src="images/small/3rdGrade_92.jpg" width="673" size="small"/>
+<rendition height="32" src="images/thumb/3rdGrade_92.jpg" width="48" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="3096" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="650" src="images/large/3rdGrade_94.jpg" width="435" size="large"/>
+<rendition height="520" src="images/medium/3rdGrade_94.jpg" width="348" size="medium"/>
+<rendition height="450" src="images/small/3rdGrade_94.jpg" width="301" size="small"/>
+<rendition height="48" src="images/thumb/3rdGrade_94.jpg" width="32" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="3107" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="650" src="images/large/3rdGrade_95.jpg" width="435" size="large"/>
+<rendition height="520" src="images/medium/3rdGrade_95.jpg" width="348" size="medium"/>
+<rendition height="450" src="images/small/3rdGrade_95.jpg" width="301" size="small"/>
+<rendition height="48" src="images/thumb/3rdGrade_95.jpg" width="32" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="3118" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="650" src="images/large/3rdGrade_97.jpg" width="435" size="large"/>
+<rendition height="520" src="images/medium/3rdGrade_97.jpg" width="348" size="medium"/>
+<rendition height="450" src="images/small/3rdGrade_97.jpg" width="301" size="small"/>
+<rendition height="48" src="images/thumb/3rdGrade_97.jpg" width="32" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="3129" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="650" src="images/large/3rdGrade_98.jpg" width="435" size="large"/>
+<rendition height="520" src="images/medium/3rdGrade_98.jpg" width="348" size="medium"/>
+<rendition height="450" src="images/small/3rdGrade_98.jpg" width="301" size="small"/>
+<rendition height="48" src="images/thumb/3rdGrade_98.jpg" width="32" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="3140" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="650" src="images/large/3rdGrade_99.jpg" width="435" size="large"/>
+<rendition height="520" src="images/medium/3rdGrade_99.jpg" width="348" size="medium"/>
+<rendition height="450" src="images/small/3rdGrade_99.jpg" width="301" size="small"/>
+<rendition height="48" src="images/thumb/3rdGrade_99.jpg" width="32" size="thumb"/>
+</renditions>
+</item>
+</media>
+</mediaGroup>

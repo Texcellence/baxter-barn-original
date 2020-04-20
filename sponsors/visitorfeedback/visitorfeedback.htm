@@ -1,0 +1,517 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/master.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>Visitor Feedback</title>
+<!-- InstanceEndEditable -->
+<!-- InstanceBeginEditable name="head" -->
+<style type="text/css">
+.style19 {	text-align: left;
+}
+.container #subtitle {
+	text-align: center;
+}
+.container p .style34 .style201 img {
+	margin: 5px;
+}
+.container table {
+	margin: 0 auto;
+}
+.container #text {
+	text-align: center;
+}
+</style><style type="text/css">
+.style35 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	text-align: center;
+}
+</style>
+<style type="text/css">
+.style221 {
+	text-align: left;
+	border-style: solid;
+	border-width: 1px;
+	width: 50%;
+}
+.style231 {	text-align: center;
+	font-size: 12.0pt;
+	font-family: "Times New Roman", serif;
+	margin-left: 0in;
+	margin-right: 0in;
+	margin-bottom: 10.2pt;
+	background: whitesmoke;
+}
+.style241 {	text-align: left;
+	font-family: Verdana;
+	border-style: solid;
+	border-width: 1px;
+}
+.style25 {	font-family: Verdana;
+}
+.style26 {	text-align: center;
+	font-size: 12.0pt;
+	margin-left: 0in;
+	margin-right: 0in;
+	margin-bottom: 10.2pt;
+	background: whitesmoke;
+}
+.style271 {	font-family: Verdana;
+	font-size: small;
+}
+.style28 {	font-size: medium;
+}
+.style29 {	font-size: medium;
+	font-family: Verdana;
+}
+.style301 {	font-size: small;
+}
+.style311 {	margin-bottom: 0px;
+}
+.style32 {	margin-top: 0px;
+}
+.style33 {	border-width: 0px;
+}
+</style>
+<!-- InstanceEndEditable -->
+<style type="text/css">
+<!--
+body {
+	font: 100%/1.4 Verdana, Arial, Helvetica, sans-serif;
+	background: #4E5869;
+	margin: 0;
+	padding: 0;
+	color: #000;
+}
+
+/* ~~ Element/tag selectors ~~ */
+ul, ol, dl { /* Due to variations between browsers, it's best practices to zero padding and margin on lists. For consistency, you can either specify the amounts you want here, or on the list items (LI, DT, DD) they contain. Remember that what you do here will cascade to the .nav list unless you write a more specific selector. */
+	padding: 0;
+	margin: 0;
+}
+h1, h2, h3, h4, h5, h6, p {
+	margin-top: 0;	 /* removing the top margin gets around an issue where margins can escape from their containing div. The remaining bottom margin will hold it away from any elements that follow. */
+	padding-right: 15px;
+	padding-left: 15px; /* adding the padding to the sides of the elements within the divs, instead of the divs themselves, gets rid of any box model math. A nested div with side padding can also be used as an alternate method. */
+	font-size: small;
+}
+a img { /* this selector removes the default blue border displayed in some browsers around an image when it is surrounded by a link */
+	border: none;
+}
+
+/* ~~ Styling for your site's links must remain in this order - including the group of selectors that create the hover effect. ~~ */
+a:link {
+	color:#8b0000;
+	text-decoration: underline; /* unless you style your links to look extremely unique, it's best to provide underlines for quick visual identification */
+}
+a:visited {
+	color: #8b0000;
+	text-decoration: underline;
+}
+a:hover, a:active, a:focus { /* this group of selectors will give a keyboard navigator the same hover experience as the person using a mouse. */
+	text-decoration: bold;
+}
+
+/* ~~ this container surrounds all other divs giving them their percentage-based width ~~ */
+.container {
+	width: 80%;
+	max-width: 1260px;/* a max-width may be desirable to keep this layout from getting too wide on a large monitor. This keeps line length more readable. IE6 does not respect this declaration. */
+	min-width: 780px;/* a min-width may be desirable to keep this layout from getting too narrow. This keeps line length more readable in the side columns. IE6 does not respect this declaration. */
+	background-image: url(../../images/scan0005.jpg);
+	margin: 0 auto; /* the auto value on the sides, coupled with the width, centers the layout. It is not needed if you set the .container's width to 100%. */
+}
+
+/* ~~the header is not given a width. It will extend the full width of your layout. It contains an image placeholder that should be replaced with your own linked logo~~ */
+.header {
+	background: #2B0E00;
+}
+
+/* ~~ This is the layout information. ~~ 
+
+1) Padding is only placed on the top and/or bottom of the div. The elements within this div have padding on their sides. This saves you from any "box model math". Keep in mind, if you add any side padding or border to the div itself, it will be added to the width you define to create the *total* width. You may also choose to remove the padding on the element in the div and place a second div within it with no width and the padding necessary for your design.
+
+*/
+.content {
+	padding: 10px 0;
+}
+
+/* ~~ This grouped selector gives the lists in the .content area space ~~ */
+.content ul, .content ol { 
+	padding: 0 15px 15px 40px; /* this padding mirrors the right padding in the headings and paragraph rule above. Padding was placed on the bottom for space between other elements on the lists and on the left to create the indention. These may be adjusted as you wish. */
+}
+
+/* ~~ The footer ~~ */
+.footer {
+	padding: 10px 0;
+	background-image: url(../../images/scan0005.jpg);
+	text-align: center;
+	font-family: verdana;
+}
+
+/* ~~ miscellaneous float/clear classes ~~ */
+.fltrt {  /* this class can be used to float an element right in your page. The floated element must precede the element it should be next to on the page. */
+	float: right;
+	margin-left: 8px;
+}
+.fltlft { /* this class can be used to float an element left in your page. The floated element must precede the element it should be next to on the page. */
+	float: left;
+	margin-right: 8px;
+}
+.clearfloat { /* this class can be placed on a <br /> or empty div as the final element following the last floated div (within the #container) if the #footer is removed or taken out of the #container */
+	clear:both;
+	height:0;
+	font-size: 1px;
+	line-height: 0px;
+}
+-->
+</style>
+<link href="../../jqueryslidemenu.css" rel="stylesheet" type="text/css" />
+<link href="../../jqueryslidemenu1.css" rel="stylesheet" type="text/css" />
+<link href="../../styles/layout.css" rel="stylesheet" type="text/css" />
+<link href="../../styles/style3.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript">
+<!--
+function FP_preloadImgs() {
+ var d=document,a=arguments; if(!d.FP_imgs) d.FP_imgs=new Array();
+ for(var i=0; i<a.length; i++) { d.FP_imgs[i]=new Image; d.FP_imgs[i].src=a[i]; }
+}
+// -->
+</script>
+
+<![endif]--><script type="text/javascript" src="../../jquery.min1.js"></script>
+<script type="text/javascript" src="../../jqueryslidemenu1.js"></script>
+<script type="text/javascript" src="../../jquery.min.js"></script>
+<script type="text/javascript" src="../../jqueryslidemenu.js"></script>
+
+																					  </style>
+<style type="text/css">
+.style11 {	color: #8B0000;
+	text-decoration: underline;
+}
+</style>
+</head>
+
+<body>
+
+<div class="container">
+  <div class="header"><!-- end .header --><table width="100%" border="1">
+  <tr>
+    <td id="nav1">
+    <div id="topnav" style="width:200px; margin: 0 auto;">
+      <div id="myslidemenu1" class="jqueryslidemenu1">
+        <ul>
+          <li style="z-index: 3; top: -1px;" class="style17"><a href="../../community/index.htm">Community</a></li>
+          <li style="z-index: 3; top: -1px;" class="style17"><a href="#">Supporter</a>
+            <ul>
+              <li><a href="../howtosupport/howtosupport.htm">How to Support Us </a></li>
+              <li><a href="../supporters.htm">Our Supporters</a></li>
+              <li><a href="../supportananimal/supportananimal.htm">Support An Animal</a></li>
+              <li><a href="visitorfeedback.htm">Visitor Feedback</a></li>
+            </ul>
+          </li>
+        </ul>
+        <br style="clear: left" />
+      </div>
+    </div>
+    </td>
+  </tr>
+  <tr id="farm">
+    <td height="191"><img src="../../images/farm.jpg" width="100%" height="191" /></td>
+  </tr>
+  <tr id="nav2">
+    <td>
+    <div id="bottomnav" style="width:771px; margin: 0 auto;">
+      <div id="myslidemenu" class="jqueryslidemenu" style="">
+        <ul>
+          <li style="z-index: 3; left: 0px; top: 0px; width: 69px;"><a href="http://baxterbarn.org">Home</a></li>
+          <li style="z-index: 3; left: 0px; top: 0px; width: 136px;"><a href="#">Farm Business</a>
+            <ul>
+                <li><a href="../../farmbusiness/feed/index.html">Feed</a></li>
+
+              <li><a href="../../farmbusiness/donkeys/donkeys.htm">Donkeys</a></li>
+              <li><a href="../../farmbusiness/fertileeggsandchicks/fertileeggsandchicks.htm">Fertile Eggs and Chicks</a></li>
+              <li><a href="../../farmbusiness/fresheggs/fresheggs.htm">Fresh Eggs</a></li>
+              <li><a href="../../farmbusiness/gifts/gifts.htm">Gifts</a></li>
+            </ul>
+          </li>
+          <li style="z-index: 3; left: 0px; top: 0px; width: 100px;"><a href="#WebsiteIsBeingUpdated">Programs</a>
+            <ul style="z-index: 3">
+              <li style="z-index: 1"> <a href="../../programs/birthdayparties/birthdayparties.htm">Birthday Parties</a></li>
+              <li style="z-index: 3"> <a href="../../programs/educationalprograms/educationalprograms.htm">Educational Programs</a></li>
+              <li style="z-index: 1"> <a href="../../programs/handsoneducation/handsoneducation.htm">Hands On Education</a></li>
+              <li style="z-index: 1"><a href="../../programs/weddings/weddings.htm">Rental Venue</a></li>
+              <li style="z-index: 1"><a href="../../programs/tours/tours.htm">Tours</a></li>
+            </ul>
+          </li>
+          <li style="z-index: 3; left: 0px; top: 0px; width: 100px;"><a href="#WebsiteIsBeingUpdated">For Kids </a>
+            <ul>
+              <li style="z-index: 1"><a href="../../forkids/coloringbook/coloringbook.htm">Coloring Book</a></li>
+              <li><a href="../../forkids/farminganimals/farmanimals.htm">Farming Animals</a>
+                <ul>
+                  <li><a href="../../forkids/farminganimals/farmanimals.htm#Bunnies">Bunnies</a></li>
+                  <li><a href="../../forkids/farminganimals/farmanimals.htm#Donkeys">Donkeys</a></li>
+                  <li><a href="../../forkids/farminganimals/farmanimals.htm#Turkeys">Turkeys</a></li>
+                </ul>
+              </li>
+              <li style="z-index: 1"><a href="../../forkids/games/games.htm">Games</a></li>
+            </ul>
+          </li>
+          <li style="z-index: 3; left: 0px; top: 0px; width: 149px;"><a href="#WebsiteIsBeingUpdated">News and Press</a>
+            <ul style="z-index: 1">
+              <li style="z-index: 1"><a href="../../newsandpress/awards/awards.htm">Awards</a></li>
+              <li style="z-index: 1"> <a href="../../newsandpress/baxterletter/baxterletter.htm">Baxter Letter</a></li>
+              <li style="z-index: 1"> <a href="http://baxterbarn.org/blog">Blog</a></li>
+              <li style="z-index: 1"><a href="../../newsandpress/harvestcelebration/index.htm">Harvest Celebration</a>
+                <ul>
+                  <li><a href="../../newsandpress/harvestcelebration/Press_Release.pdf"> Council Press Release</a></li>
+                  <li><a href="../../newsandpress/harvestcelebration/Proclamation.pdf">Council Proclamation</a></li>
+                  <li><a href="http://king.wsu.edu/foodandfarms/documents/1009_1604_POSTER.pdf">Flyer</a></li>
+                </ul>
+              </li>
+              <li style="z-index: 1"><a href="../../newsandpress/newsandpress.htm">News</a>
+                <ul>
+                  <li><a href="../../newsandpress/2011PSFFarmGuide.pdf">2011 Farm Guide</a></li>
+                  <li><a href="../../newsandpress/FarmofMerit.pdf">Farm of Merit</a></li>
+                  <li><a href="../../newsandpress/District3Final.pdf">KCD in District 3</a></li>
+                </ul>
+              </li>
+              <li style="z-index: 1"><a href="../../newsandpress/thirdgradethankyous/thirdgradethankyous.htm">Third Grade Thank Yous</a></li>
+            </ul>
+          </li>
+          <li style="z-index: 9; left: 0px; top: 0px;"><a href="#">Photo Gallery</a>
+            <ul style="z-index: 5">
+              <li style="z-index: 5"><a href="../../photo_gallery/JanetHorton/photo_gallery.htm">Baxter Barn Photo Gallery by Janet Horton</a></li>
+              <li style="z-index: 5"><a href="../../photo_gallery/JoeyNicole/photo_gallery.htm">Baxter Barn Photo Gallery by Joey Nicole</a></li>
+              <li style="z-index: 5"><a href="../../photo_gallery/KellyHill/photo_gallery.htm">Baxter Barn Photo Gallery by Kelly Hill</a></li>
+              <li style="z-index: 5"><a href="../../photo_gallery/TLStokes/photo_gallery.htm">Baxter Barn Photo Gallery by T.L. Stokes</a></li>
+            </ul>
+          </li>
+          <li style="z-index: 3; left: 2px; top: 0px; width: 94px; height: 26px;"> <a href="../../contactus/contactus.htm" style="width: 80px" class="style19">Contact 
+            Us</a> </li>
+        </ul>
+        <br style="clear: left" />
+      </div>
+    </div>
+    </td>
+  </tr>
+</table>
+</div>
+  <!-- InstanceBeginEditable name="Content" -->
+  <h1>Visitor Feedback</h1>
+  <p>We would love for you to share your feedback on your experience at Baxter Barn for future visitors.<br />
+  Thank You!</p>
+  <p><span class="style35"><div style="width: 323px; margin: 0 auto;"><img alt="" height="212" src="Vistors%20feedback.png" width="323" /></div></span></p>
+  <p>
+    <iframe id="I1" border="0" frameborder="0" name="I1" src="display.html.php" style="width: 100%; height: 399px"> Your browser does not support inline frames or is currently configured not to display inline frames. </iframe>
+  </p>
+  <table class="style33" style="width: 100%">
+    <tr>
+      <td class="style241" style="width: 50%"><h1> <span class="style28" style="mso-fareast-font-family: &quot;Times New Roman&quot;; color: black; mso-ansi-language: EN" lang="en" xml:lang="en"> {My New&nbsp;Crush}</span><span class="style28" style="mso-fareast-font-family: &quot;Times New Roman&quot;; color: #1F497D; mso-ansi-language: EN" lang="en" xml:lang="en"> submitted by Joey</span><span style="font-size: 12.0pt; font-family: &quot;Georgia&quot;,&quot;serif&quot;; mso-fareast-font-family: &quot;Times New Roman&quot;; color: black; mso-ansi-language: EN" lang="en" xml:lang="en">
+        <o:p></o:p>
+      </span></h1>
+        <p> <span style="font-size: 9.5pt; color: #333333; mso-ansi-language: EN" lang="en" xml:lang="en"> Yesterday, I fell in love. The kind of love that made my 
+          eyes light up and my heart swell with warmth. The kind that 
+          made me want to just put my arms around him and hold him 
+          tight.&nbsp;I don’t know if it was his huge brown eyes, that <em> he</em></span><span style="font-size: 9.5pt; font-family: &quot;Georgia&quot;,&quot;serif&quot;; color: #333333; mso-ansi-language: EN" lang="en" xml:lang="en"><span style="font-size: 9.5pt; color: #333333; mso-ansi-language: EN" lang="en" xml:lang="en"> approached <em>me</em>, or his thick brown fur. Perhaps it 
+            was the cute way his&nbsp;ears twitched like tv antennae 
+            searching for a signal when I spoke to him, as if he were <em>really</em> listening to my words…
+            <o:p></o:p>
+          </span></span></p>
+        <p> <span style="font-size: 9.5pt; color: #333333; mso-ansi-language: EN" lang="en" xml:lang="en"> Whatever the reason, after meeting him – Christian -&nbsp;I 
+          definitely had a newfound appreciation for donkeys. Yes, 
+          brown, furry, mini-donkeys to be exact :) Christian and his 
+          lady friend Belle approached me at the fence and entertained 
+          me as I snapped a few photos and told them how cute they 
+          were until I moved on to see the rest of <a href="http://baxterbarn.org/" target="_blank" title="Baxter Barn"> Baxter Barn</a></span><span style="font-size: 9.5pt; font-family: &quot;Georgia&quot;,&quot;serif&quot;; color: #333333; mso-ansi-language: EN" lang="en" xml:lang="en">.
+            <o:p></o:p>
+          </span></p>
+        <p align="center" class="MsoNormal">
+          <!--[if gte vml 1]><v:shapetype id="_x0000_t75"
+ coordsize="21600,21600" o:spt="75" o:preferrelative="t" path="m@4@5l@4@11@9@11@9@5xe"
+ filled="f" stroked="f">
+ <v:stroke joinstyle="miter" xmlns:v="urn:schemas-microsoft-com:vml"/>
+ <v:formulas>
+  <v:f eqn="if lineDrawn pixelLineWidth 0" xmlns:v="urn:schemas-microsoft-com:vml"/>
+  <v:f eqn="sum @0 1 0" xmlns:v="urn:schemas-microsoft-com:vml"/>
+  <v:f eqn="sum 0 0 @1" xmlns:v="urn:schemas-microsoft-com:vml"/>
+  <v:f eqn="prod @2 1 2" xmlns:v="urn:schemas-microsoft-com:vml"/>
+  <v:f eqn="prod @3 21600 pixelWidth" xmlns:v="urn:schemas-microsoft-com:vml"/>
+  <v:f eqn="prod @3 21600 pixelHeight" xmlns:v="urn:schemas-microsoft-com:vml"/>
+  <v:f eqn="sum @0 0 1" xmlns:v="urn:schemas-microsoft-com:vml"/>
+  <v:f eqn="prod @6 1 2" xmlns:v="urn:schemas-microsoft-com:vml"/>
+  <v:f eqn="prod @7 21600 pixelWidth" xmlns:v="urn:schemas-microsoft-com:vml"/>
+  <v:f eqn="sum @8 21600 0" xmlns:v="urn:schemas-microsoft-com:vml"/>
+  <v:f eqn="prod @7 21600 pixelHeight" xmlns:v="urn:schemas-microsoft-com:vml"/>
+  <v:f eqn="sum @10 21600 0" xmlns:v="urn:schemas-microsoft-com:vml"/>
+ </v:formulas>
+ <v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect" xmlns:v="urn:schemas-microsoft-com:vml"/>
+ <o:lock v:ext="edit" aspectratio="t" xmlns:o="urn:schemas-microsoft-com:office:office"/>
+</v:shapetype><v:shape id="Picture_x0020_2" o:spid="_x0000_i1025" type="#_x0000_t75"
+ alt="http://paleogirls.files.wordpress.com/2010/11/paleogirlsblog0020.jpg?w=500&amp;h=332"
+ style='width:241.5pt;height:160.5pt'>
+ <v:imagedata src="clip_image001.jpg"
+  o:href="cid:image005.jpg@01CB8AFA.04A28D10" xmlns:v="urn:schemas-microsoft-com:vml"/>
+</v:shape><![endif]-->
+          <img alt="" src="img37.jpg" /><span style="font-size: 9.5pt; font-family: &quot;Georgia&quot;,&quot;serif&quot;; color: #333333; mso-ansi-language: EN" lang="en" xml:lang="en">
+            <o:p></o:p>
+          </span></p>
+        <p align="center" class="style26"> <span style="font-size: 9.5pt; color: #333333; mso-ansi-language: EN" lang="en" xml:lang="en"> Belle and Christian
+          <o:p></o:p>
+        </span></p>
+        <p> <span style="font-size: 9.5pt; color: #333333; mso-ansi-language: EN" lang="en" xml:lang="en"> Jake and I drove out to <a href="http://baxterbarn.org/" target="_blank" title="Baxter Barn"> Baxer Barn</a> in Fall City the other day simply to purchase 
+          some pastured chicken eggs. We had been wanting to visit a 
+          farm for ages, and finally made the effort to do so. We 
+          thought we would simply show up, pay for&nbsp;the eggs, and come 
+          home. But we were much more fortunate than that. We were 
+          greeted by the owner, Cory, and he gave us a tour and 
+          answered all of our questions about his chickens. <em>(Thank 
+            you, Cory, for your kindness and your time!)</em>
+          <o:p></o:p>
+        </span></p>
+        <p align="center" class="MsoNormal"> <span style="font-size: 9.5pt; font-family: &quot;Georgia&quot;,&quot;serif&quot;; color: #333333; mso-ansi-language: EN" lang="en" xml:lang="en">
+          <o:p> &nbsp;</o:p>
+        </span></p>
+        <p> <span style="font-size: 9.5pt; color: #333333; mso-ansi-language: EN" lang="en" xml:lang="en"> The chickens at <a href="http://baxterbarn.org/" target="_blank" title="Baxter Barn"> Baxter Barn</a> are true scavengers, they eat bugs and peck 
+          the grounds and mill all around the farm with the other 
+          animals, and their diet is also supplemented by some organic 
+          veggies. This means they lay better quality eggs than the 
+          ones from factory farming, which in turn means a healthier <em>you</em></span><span style="font-size: 9.5pt; font-family: &quot;Georgia&quot;,&quot;serif&quot;; color: #333333; mso-ansi-language: EN" lang="en" xml:lang="en"><span style="font-size: 9.5pt; color: #333333; mso-ansi-language: EN" lang="en" xml:lang="en"> for eating those eggs :)
+            <o:p></o:p>
+          </span></span></p>
+        <p align="center" class="MsoNormal"> <a href="http://paleogirls.files.wordpress.com/2010/11/paleogirlsblog0025.jpg"> <span style="font-size: 9.5pt; font-family: &quot;Georgia&quot;,&quot;serif&quot;; color: #1C9BDC; text-decoration: none; text-underline: none">
+          <!--[if gte vml 1]><v:shape id="Picture_x0020_4"
+ o:spid="_x0000_i1026" type="#_x0000_t75" alt="http://paleogirls.files.wordpress.com/2010/11/paleogirlsblog0025.jpg?w=500&amp;h=332"
+ style='width:262.5pt;height:174.75pt'>
+ <v:imagedata src="clip_image002.jpg"
+  o:href="cid:image007.jpg@01CB8AFA.04A28D10" xmlns:v="urn:schemas-microsoft-com:vml"/>
+</v:shape><![endif]-->
+          <![if !vml]>
+          <img alt="http://paleogirls.files.wordpress.com/2010/11/paleogirlsblog0025.jpg?w=500&amp;h=332" border="0" height="233" src="clip_image002.jpg" v:shapes="Picture_x0020_4" width="350" />
+          <![endif]>
+          </span></a><span style="font-size: 9.5pt; font-family: &quot;Georgia&quot;,&quot;serif&quot;; color: #333333; mso-ansi-language: EN" lang="en" xml:lang="en">
+            <o:p></o:p>
+          </span></p>
+        <p align="center" class="style26"> <span style="font-size: 9.5pt; color: #333333; mso-ansi-language: EN" lang="en" xml:lang="en"> A true pastured chicken!
+          <o:p></o:p>
+        </span></p>
+        <p> <span class="style271" style="color: #333333; mso-ansi-language: EN" lang="en" xml:lang="en"> After this experience, I definitely encourage you to visit 
+          your local farms. (See <a href="http://paleogirls.com/2010/11/16/wheres-the-beef/" target="_blank" title="Where's the Beef?"> yesterday’s blog post</a> to find one near you!) See how the 
+          animals live, what they eat, interview the farmers and</span><span class="style25" style="color: #333333; mso-ansi-language: EN" lang="en" xml:lang="en"> just soak it all in. Besides being good for your health, 
+            being around these animals also feels so good for the soul. 
+            I came home with so much more than chicken eggs that 
+            day.&nbsp;And I’ll definitely think twice next time before I 
+            consider calling someone an ass :)
+            <o:p></o:p>
+          </span></p>
+        <p> <span style="color: #333333; mso-ansi-language: EN" lang="en" xml:lang="en"> Enjoy some photos from around the farm, and, as always – 
+          Happy Eating :) Joey
+          <o:p></o:p>
+        </span></p>
+        <p class="MsoNormal"><a href="http://paleogirls.com/"> http://paleogirls.com/</a>
+          <o:p></o:p>
+        </p></td>
+      <td class="style221" valign="top"><h1> <span class="style29" style="mso-fareast-font-family: &quot;Times New Roman&quot;; color: black; mso-ansi-language: EN" lang="en" xml:lang="en"> {Where’s the&nbsp;Beef?} </span><span class="style28" style="line-height: 23px; color: rgb(31, 73, 125);" lang="en" xml:lang="en"><strong>submitted 
+        by Joey</strong></span></h1>
+        <p align="center" class="MsoNormal">
+          <!--[if gte vml 1]>
+					<v:shapetype id="_x0000_t76"
+ coordsize="21600,21600" o:spt="75" o:preferrelative="t" path="m@4@5l@4@11@9@11@9@5xe"
+ filled="f" stroked="f">
+ <v:stroke joinstyle="miter" xmlns:v="urn:schemas-microsoft-com:vml"/>
+ <v:formulas>
+  <v:f eqn="if lineDrawn pixelLineWidth 0" xmlns:v="urn:schemas-microsoft-com:vml"/>
+  <v:f eqn="sum @0 1 0" xmlns:v="urn:schemas-microsoft-com:vml"/>
+  <v:f eqn="sum 0 0 @1" xmlns:v="urn:schemas-microsoft-com:vml"/>
+  <v:f eqn="prod @2 1 2" xmlns:v="urn:schemas-microsoft-com:vml"/>
+  <v:f eqn="prod @3 21600 pixelWidth" xmlns:v="urn:schemas-microsoft-com:vml"/>
+  <v:f eqn="prod @3 21600 pixelHeight" xmlns:v="urn:schemas-microsoft-com:vml"/>
+  <v:f eqn="sum @0 0 1" xmlns:v="urn:schemas-microsoft-com:vml"/>
+  <v:f eqn="prod @6 1 2" xmlns:v="urn:schemas-microsoft-com:vml"/>
+  <v:f eqn="prod @7 21600 pixelWidth" xmlns:v="urn:schemas-microsoft-com:vml"/>
+  <v:f eqn="sum @8 21600 0" xmlns:v="urn:schemas-microsoft-com:vml"/>
+  <v:f eqn="prod @7 21600 pixelHeight" xmlns:v="urn:schemas-microsoft-com:vml"/>
+  <v:f eqn="sum @10 21600 0" xmlns:v="urn:schemas-microsoft-com:vml"/>
+ </v:formulas>
+ <v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect" xmlns:v="urn:schemas-microsoft-com:vml"/>
+ <o:lock v:ext="edit" aspectratio="t" xmlns:o="urn:schemas-microsoft-com:office:office"/>
+</v:shapetype><v:shape id="Picture_x0020_1" o:spid="_x0000_i1025" type="#_x0000_t75"
+ alt="http://paleogirls.files.wordpress.com/2010/11/paleogirlsblog0012.jpg?w=500&amp;h=332"
+ style='width:375pt;height:249pt'>
+ <v:imagedata src="clip_image001.jpg"
+  o:href="cid:image001.jpg@01CB8AFA.3F9C8330" xmlns:v="urn:schemas-microsoft-com:vml"/>
+</v:shape><![endif]-->
+          <a href="http://paleogirls.files.wordpress.com/2010/11/paleogirlsblog0012.jpg"> <span style="font-size: 9.5pt; font-family: &quot;Georgia&quot;,&quot;serif&quot;; color: #1C9BDC; text-decoration: none; text-underline: none"> <img alt="http://paleogirls.files.wordpress.com/2010/11/paleogirlsblog0012.jpg?w=500&amp;h=332" border="0" height="272" src="clip_image001.jpg" v:shapes="Picture_x0020_1" width="412" /></span></a><span style="font-size: 9.5pt; font-family: &quot;Georgia&quot;,&quot;serif&quot;; color: #333333; mso-ansi-language: EN" lang="en" xml:lang="en">
+          <o:p></o:p>
+        </span></p>
+        <p align="center" class="style231"> <span class="style25" style="font-size: 9.5pt; color: #333333; mso-ansi-language: EN" lang="en" xml:lang="en"> Pastured eggs, straight from the farm.
+          <o:p></o:p>
+        </span></p>
+        <p> <span class="style25" style="font-size: 9.5pt; color: #333333; mso-ansi-language: EN" lang="en" xml:lang="en"> It’s unfortunate that finding great-sourced protein isn’t as 
+          simple as walking in your local grocer these days. Well, 
+          unless you’ve done your homework and know where to shop and 
+          exactly what you’re looking for. We’ve done our research, 
+          and it still feels as though we’re learning something new 
+          every day.
+          <o:p></o:p>
+        </span></p>
+        <p> <span class="style25" style="font-size: 9.5pt; color: #333333; mso-ansi-language: EN" lang="en" xml:lang="en"> Even the shops that do source the healthiest forms of meat 
+          don’t always make it easy on the shoppers… from terms from 
+          like </span> <span style="font-size: 9.5pt; font-family: &quot;Georgia&quot;,&quot;serif&quot;; color: #333333; mso-ansi-language: EN" lang="en" xml:lang="en"> <em><span class="style25">organic</span></em></span><span class="style25" style="font-size: 9.5pt; color: #333333; mso-ansi-language: EN" lang="en" xml:lang="en"> to </span> <span style="font-size: 9.5pt; font-family: &quot;Georgia&quot;,&quot;serif&quot;; color: #333333; mso-ansi-language: EN" lang="en" xml:lang="en"> <em><span class="style25">natural</span></em><span class="style25" style="font-size: 9.5pt; color: #333333; mso-ansi-language: EN" lang="en" xml:lang="en"> to </span><em><span class="style25">grass-fed</span></em><span class="style25" style="font-size: 9.5pt; color: #333333; mso-ansi-language: EN" lang="en" xml:lang="en"> but, wait, is that </span><em><span class="style25">100% 
+            grass-fed</span></em><span class="style25" style="font-size: 9.5pt; color: #333333; mso-ansi-language: EN" lang="en" xml:lang="en"> or mostly </span><em><span class="style25">grass-fed then 
+              grain-finished </span></em> <span class="style25" style="font-size: 9.5pt; color: #333333; mso-ansi-language: EN" lang="en" xml:lang="en"> beef? And those chickens and eggs – are they free-range, 
+                like for REAL on a farm, or do they just get a small window 
+                to go out if they want or can even get to it from their 
+                crowded barn? Do they eat organic food? And is that organic </span><em><span class="style25">feed</span></em><span class="style25" style="font-size: 9.5pt; color: #333333; mso-ansi-language: EN" lang="en" xml:lang="en"> or real bugs and stuff they find on the farms? I tell you, 
+                  shopping for the best can be simply exhausting.
+                  <o:p></o:p>
+                </span></span></p>
+        <p> <span class="style25" style="font-size: 9.5pt; color: #333333; mso-ansi-language: EN" lang="en" xml:lang="en"> We’re working on a local guide for all of our Seattle 
+          friends, but until then I wanted to share two websites that 
+          Jake found that have been great resources for us to learn a 
+          bit more about where our local food is coming from. We even 
+          visited one these farms we found on here today to pick up 
+          some pastured eggs, and I’ll have a full post coming up on 
+          that shortly.
+          <o:p></o:p>
+        </span></p>
+        <p> <span class="style25" style="font-size: 9.5pt; color: #333333; mso-ansi-language: EN" lang="en" xml:lang="en"> So, to find some great-sourced protein and veggies in your 
+          area, check out the following websites. To get the best 
+          answers about each farm, visit their websites (links are 
+          usually included), and go check the farm out for yourself!
+          <o:p></o:p>
+        </span></p>
+        <h2 align="center" class="style311"> <span class="style25" style="mso-fareast-font-family: &quot;Times New Roman&quot;; color: #333333; mso-ansi-language: EN" lang="en" xml:lang="en"> <span class="style301">{</span><a href="http://www.eatwild.com/" target="_blank" title="Eat Wild"><span class="style301">EAT 
+          WILD</span></a></span><span style="font-family: &quot;Georgia&quot;,&quot;serif&quot;; mso-fareast-font-family: &quot;Times New Roman&quot;; color: #333333; mso-ansi-language: EN" lang="en" xml:lang="en">}
+            <o:p></o:p>
+          </span></h2>
+        <h2 align="center" class="style32"> <span class="style25" style="mso-fareast-font-family: &quot;Times New Roman&quot;; color: #333333; mso-ansi-language: EN" lang="en" xml:lang="en"> <span class="style301">{</span><a href="http://www.localharvest.org/" target="_blank" title="Local Harvest"><span class="style301">LOCAL 
+          HARVEST</span></a></span><span style="font-family: &quot;Georgia&quot;,&quot;serif&quot;; mso-fareast-font-family: &quot;Times New Roman&quot;; color: #333333; mso-ansi-language: EN" lang="en" xml:lang="en">}
+            <o:p></o:p>
+          </span></h2>
+        <p> <span class="style271" style="color: #333333; mso-ansi-language: EN" lang="en" xml:lang="en"> Our friends at Whole 9 Life also wrote this spectacular post 
+          on <a href="http://whole9life.com/2010/11/the-conscientious-omnivore-eggs/" target="_blank" title="Whole 9 Life - Chicken Eggs"> Chicken Eggs</a> recently. Sort of an “eggtionary” to help 
+          ease your shopping confusion:)
+          <o:p></o:p>
+        </span></p>
+        <p> <span class="style25" style="font-size: 9.5pt; color: #333333; mso-ansi-language: EN" lang="en" xml:lang="en"> Happy eating! Joey
+          <o:p></o:p>
+        </span></p>
+        <p> <span class="style25" style="font-size: 9.5pt; color: #333333; mso-ansi-language: EN" lang="en" xml:lang="en"> <a href="http://paleogirls.com/">http://paleogirls.com/</a>
+          <o:p></o:p>
+        </span></p></td>
+    </tr>
+  </table>
+  <p>&nbsp; </p>
+  <!-- InstanceEndEditable -->
+  <div class="footer"><!-- end .footer -->
+    <p id="footer"><a href="JavaScript:newPopup('http://www.baxterbarn.org/newsletter');">Join Our Mailing List!</a> &nbsp;<br />
+      <span class="style16"> <a href="mailto:baxterbarn@hotmail.com?subject=Baxter Barn Website"> baxterbarn@hotmail.com</a></span><br />
+      <span class="style16"> <a href="../../index.html">Home</a> |<a href="aboutus.htm"> About 
+        Us</a> | <span class="style11"> <a href="../../programs/educationalprograms/educationalprograms.htm"> Educational Programs</a></span> | <a href="../../forkids/coloringbook/coloringbook.htm" target="_blank">Coloring 
+          Book</a>| <a href="../../newsandpress/newsandpress.htm" target="_blank">News and Press </a>| <a href="../../photo_gallery/TLStokes/photo_gallery.htm" target="_blank">Photo Gallery</a> | <span class="style11"><a href="../../contactus/contactus.htm">Contact Us</a></span><br />
+      Website Designed and Created by <a href="http://mysite.prahan.com">Pratik Vaidya</a><br />
+    © Baxter Barn 2011</span></p>
+</div>
+  <!-- end .container --></div>
+</body>
+<!-- InstanceEnd --></html>

@@ -1,0 +1,975 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mediaGroup>
+<amgVersion version="1.3" />
+<groupInfo>
+<author></author>
+<authorApplication>Adobe Lightroom 1.0</authorApplication>
+<creationDate>05/09/10, 09:37:00 PM</creationDate>
+<galleryMaker name="Adobe Flash Gallery" version="1.3" />
+<groupData groupID="" groupName="" />
+<authorID></authorID>
+<custom>
+<groupTitle></groupTitle>
+<groupDescription></groupDescription>
+<siteTitle>Work Party</siteTitle>
+<contactName></contactName>
+<contactEmail></contactEmail>
+</custom>
+</groupInfo>
+<sizes>
+<imageSize size="thumb" maxwidth="96" maxheight="96" />
+<imageSize size="small" maxwidth="800" maxheight="450" />
+<imageSize size="medium" maxwidth="1040" maxheight="520" />
+<imageSize size="large" maxwidth="1150" maxheight="650" />
+</sizes>
+<media totalGallerySize="79">
+<item>
+<title></title>
+<description>SONY DSC</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="3A4CCE39-6130-4227-AE13-AA1BB343C13E" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/DSC01919.jpg" height="535" width="800" />
+<rendition size="medium" src="bin/images/medium/DSC01919.jpg" height="520" width="778" />
+<rendition size="small" src="bin/images/small/DSC01919.jpg" height="450" width="673" />
+<rendition size="thumb" src="bin/images/thumb/DSC01919.jpg" height="64" width="96" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>SONY DSC</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="49A1A8D0-4B69-402F-9D8C-CF8B5B329737" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/DSC01929.jpg" height="535" width="800" />
+<rendition size="medium" src="bin/images/medium/DSC01929.jpg" height="520" width="778" />
+<rendition size="small" src="bin/images/small/DSC01929.jpg" height="450" width="673" />
+<rendition size="thumb" src="bin/images/thumb/DSC01929.jpg" height="64" width="96" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>SONY DSC</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="3B5EF872-2438-49AB-8A9E-0428371A7A7F" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/DSC01932.jpg" height="650" width="435" />
+<rendition size="medium" src="bin/images/medium/DSC01932.jpg" height="520" width="348" />
+<rendition size="small" src="bin/images/small/DSC01932.jpg" height="450" width="301" />
+<rendition size="thumb" src="bin/images/thumb/DSC01932.jpg" height="96" width="64" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>SONY DSC</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="EA18955D-E68A-4D22-BD38-22DC5D95D8EC" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/DSC01933.jpg" height="535" width="800" />
+<rendition size="medium" src="bin/images/medium/DSC01933.jpg" height="520" width="778" />
+<rendition size="small" src="bin/images/small/DSC01933.jpg" height="450" width="673" />
+<rendition size="thumb" src="bin/images/thumb/DSC01933.jpg" height="64" width="96" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>SONY DSC</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="9462B780-F469-4B45-AD4A-74845BF6DAFC" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/DSC01935.jpg" height="650" width="669" />
+<rendition size="medium" src="bin/images/medium/DSC01935.jpg" height="520" width="535" />
+<rendition size="small" src="bin/images/small/DSC01935.jpg" height="450" width="463" />
+<rendition size="thumb" src="bin/images/thumb/DSC01935.jpg" height="93" width="96" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>SONY DSC</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="B211B003-9DCA-463A-9DFF-69D15ECDBD12" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/DSC01947.jpg" height="650" width="435" />
+<rendition size="medium" src="bin/images/medium/DSC01947.jpg" height="520" width="348" />
+<rendition size="small" src="bin/images/small/DSC01947.jpg" height="450" width="301" />
+<rendition size="thumb" src="bin/images/thumb/DSC01947.jpg" height="96" width="64" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>SONY DSC</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="BDACFA86-DCA8-4CF0-B6DF-77E71FFC331A" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/DSC01950.jpg" height="535" width="800" />
+<rendition size="medium" src="bin/images/medium/DSC01950.jpg" height="520" width="778" />
+<rendition size="small" src="bin/images/small/DSC01950.jpg" height="450" width="673" />
+<rendition size="thumb" src="bin/images/thumb/DSC01950.jpg" height="64" width="96" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>SONY DSC</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="76F8539F-45EB-458D-8813-F2FFDCF36401" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/DSC01952.jpg" height="650" width="435" />
+<rendition size="medium" src="bin/images/medium/DSC01952.jpg" height="520" width="348" />
+<rendition size="small" src="bin/images/small/DSC01952.jpg" height="450" width="301" />
+<rendition size="thumb" src="bin/images/thumb/DSC01952.jpg" height="96" width="64" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>SONY DSC</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="66C7CF23-5ECE-4855-ACA4-14D46DF37B9E" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/DSC01953.jpg" height="536" width="800" />
+<rendition size="medium" src="bin/images/medium/DSC01953.jpg" height="520" width="776" />
+<rendition size="small" src="bin/images/small/DSC01953.jpg" height="450" width="672" />
+<rendition size="thumb" src="bin/images/thumb/DSC01953.jpg" height="64" width="96" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>SONY DSC</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="4FD13501-DB1A-4765-B14E-AA614D70ADB5" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/DSC01980.jpg" height="650" width="378" />
+<rendition size="medium" src="bin/images/medium/DSC01980.jpg" height="520" width="302" />
+<rendition size="small" src="bin/images/small/DSC01980.jpg" height="450" width="262" />
+<rendition size="thumb" src="bin/images/thumb/DSC01980.jpg" height="96" width="56" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>SONY DSC</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="11614E1D-0197-4754-9F92-77E15C774878" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/DSC01991.jpg" height="521" width="800" />
+<rendition size="medium" src="bin/images/medium/DSC01991.jpg" height="520" width="798" />
+<rendition size="small" src="bin/images/small/DSC01991.jpg" height="450" width="691" />
+<rendition size="thumb" src="bin/images/thumb/DSC01991.jpg" height="63" width="96" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>SONY DSC</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="0764362B-6DF5-49C7-B8F8-50D7ECE131AD" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/DSC01999.jpg" height="650" width="435" />
+<rendition size="medium" src="bin/images/medium/DSC01999.jpg" height="520" width="348" />
+<rendition size="small" src="bin/images/small/DSC01999.jpg" height="450" width="301" />
+<rendition size="thumb" src="bin/images/thumb/DSC01999.jpg" height="96" width="64" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>SONY DSC</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="7981ED4A-48D8-4001-AD2D-BEBA1637566D" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/DSC02001.jpg" height="650" width="435" />
+<rendition size="medium" src="bin/images/medium/DSC02001.jpg" height="520" width="348" />
+<rendition size="small" src="bin/images/small/DSC02001.jpg" height="450" width="301" />
+<rendition size="thumb" src="bin/images/thumb/DSC02001.jpg" height="96" width="64" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>SONY DSC</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="D660A0FA-B717-4A42-A4B0-F5258534107C" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/DSC02003.jpg" height="650" width="529" />
+<rendition size="medium" src="bin/images/medium/DSC02003.jpg" height="520" width="423" />
+<rendition size="small" src="bin/images/small/DSC02003.jpg" height="450" width="366" />
+<rendition size="thumb" src="bin/images/thumb/DSC02003.jpg" height="96" width="78" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>SONY DSC</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="FBDF14BC-CB12-4E01-838C-F1F6D2D42059" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/DSC02004_2.jpg" height="613" width="800" />
+<rendition size="medium" src="bin/images/medium/DSC02004_2.jpg" height="520" width="679" />
+<rendition size="small" src="bin/images/small/DSC02004_2.jpg" height="450" width="587" />
+<rendition size="thumb" src="bin/images/thumb/DSC02004_2.jpg" height="74" width="96" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>SONY DSC</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="E8DAF526-15B8-4490-BE16-74626E1EAA39" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/DSC02004.jpg" height="613" width="800" />
+<rendition size="medium" src="bin/images/medium/DSC02004.jpg" height="520" width="679" />
+<rendition size="small" src="bin/images/small/DSC02004.jpg" height="450" width="587" />
+<rendition size="thumb" src="bin/images/thumb/DSC02004.jpg" height="74" width="96" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>SONY DSC</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="7E3F3314-937B-47D1-8CD3-488BEC1496AB" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/DSC02008.jpg" height="650" width="435" />
+<rendition size="medium" src="bin/images/medium/DSC02008.jpg" height="520" width="348" />
+<rendition size="small" src="bin/images/small/DSC02008.jpg" height="450" width="301" />
+<rendition size="thumb" src="bin/images/thumb/DSC02008.jpg" height="96" width="64" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>SONY DSC</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="9D8E4C59-341F-4A2F-BE08-5313036EEF96" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/DSC02011.jpg" height="535" width="800" />
+<rendition size="medium" src="bin/images/medium/DSC02011.jpg" height="520" width="778" />
+<rendition size="small" src="bin/images/small/DSC02011.jpg" height="450" width="673" />
+<rendition size="thumb" src="bin/images/thumb/DSC02011.jpg" height="64" width="96" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>SONY DSC</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="7A361FEA-EA82-43BC-BB4E-5B92DFACE579" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/DSC02012.jpg" height="650" width="420" />
+<rendition size="medium" src="bin/images/medium/DSC02012.jpg" height="520" width="336" />
+<rendition size="small" src="bin/images/small/DSC02012.jpg" height="450" width="291" />
+<rendition size="thumb" src="bin/images/thumb/DSC02012.jpg" height="96" width="62" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>SONY DSC</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="6DEF1BB5-D546-45CE-AF11-D7A8D639628F" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/DSC02014.jpg" height="616" width="800" />
+<rendition size="medium" src="bin/images/medium/DSC02014.jpg" height="520" width="675" />
+<rendition size="small" src="bin/images/small/DSC02014.jpg" height="450" width="584" />
+<rendition size="thumb" src="bin/images/thumb/DSC02014.jpg" height="74" width="96" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>SONY DSC</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="4E92B3DE-A9E2-44F2-B4F5-D77071DEFBFF" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/DSC02016_1.jpg" height="650" width="498" />
+<rendition size="medium" src="bin/images/medium/DSC02016_1.jpg" height="520" width="398" />
+<rendition size="small" src="bin/images/small/DSC02016_1.jpg" height="450" width="345" />
+<rendition size="thumb" src="bin/images/thumb/DSC02016_1.jpg" height="96" width="74" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>SONY DSC</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="69B31B27-CC5B-4E63-8EA7-FF7C83FCF067" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/DSC02016.jpg" height="650" width="498" />
+<rendition size="medium" src="bin/images/medium/DSC02016.jpg" height="520" width="398" />
+<rendition size="small" src="bin/images/small/DSC02016.jpg" height="450" width="345" />
+<rendition size="thumb" src="bin/images/thumb/DSC02016.jpg" height="96" width="74" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>SONY DSC</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="DFE80D5A-94AE-4051-A3BE-16AE3367A722" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/DSC02017.jpg" height="650" width="435" />
+<rendition size="medium" src="bin/images/medium/DSC02017.jpg" height="520" width="348" />
+<rendition size="small" src="bin/images/small/DSC02017.jpg" height="450" width="301" />
+<rendition size="thumb" src="bin/images/thumb/DSC02017.jpg" height="96" width="64" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>SONY DSC</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="A47F7F10-271C-4247-AC66-10D6BDF771FC" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/DSC02019.jpg" height="650" width="435" />
+<rendition size="medium" src="bin/images/medium/DSC02019.jpg" height="520" width="348" />
+<rendition size="small" src="bin/images/small/DSC02019.jpg" height="450" width="301" />
+<rendition size="thumb" src="bin/images/thumb/DSC02019.jpg" height="96" width="64" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>SONY DSC</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="BF70BCF5-E9D6-41E5-910B-D8B92AD3E5F2" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/DSC02021.jpg" height="535" width="800" />
+<rendition size="medium" src="bin/images/medium/DSC02021.jpg" height="520" width="778" />
+<rendition size="small" src="bin/images/small/DSC02021.jpg" height="450" width="673" />
+<rendition size="thumb" src="bin/images/thumb/DSC02021.jpg" height="64" width="96" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>SONY DSC</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="9450D2D8-8B5A-4278-B277-5230427F5A91" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/DSC02024.jpg" height="597" width="800" />
+<rendition size="medium" src="bin/images/medium/DSC02024.jpg" height="520" width="697" />
+<rendition size="small" src="bin/images/small/DSC02024.jpg" height="450" width="603" />
+<rendition size="thumb" src="bin/images/thumb/DSC02024.jpg" height="72" width="96" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>SONY DSC</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="0EE50F22-A975-43AC-A957-0AD692F0A48E" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/DSC02026.jpg" height="650" width="652" />
+<rendition size="medium" src="bin/images/medium/DSC02026.jpg" height="520" width="522" />
+<rendition size="small" src="bin/images/small/DSC02026.jpg" height="450" width="452" />
+<rendition size="thumb" src="bin/images/thumb/DSC02026.jpg" height="96" width="96" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>SONY DSC</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="726006FE-F3CA-4C56-A3D9-D150073CD599" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/DSC02027.jpg" height="650" width="435" />
+<rendition size="medium" src="bin/images/medium/DSC02027.jpg" height="520" width="348" />
+<rendition size="small" src="bin/images/small/DSC02027.jpg" height="450" width="301" />
+<rendition size="thumb" src="bin/images/thumb/DSC02027.jpg" height="96" width="64" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>SONY DSC</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="0E32DF34-9675-4202-BD97-6B542CCC942E" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/DSC02028.jpg" height="535" width="800" />
+<rendition size="medium" src="bin/images/medium/DSC02028.jpg" height="520" width="778" />
+<rendition size="small" src="bin/images/small/DSC02028.jpg" height="450" width="673" />
+<rendition size="thumb" src="bin/images/thumb/DSC02028.jpg" height="64" width="96" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>SONY DSC</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="9DB94E45-5C1B-4156-AE92-F766641AF2E5" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/DSC02031.jpg" height="650" width="435" />
+<rendition size="medium" src="bin/images/medium/DSC02031.jpg" height="520" width="348" />
+<rendition size="small" src="bin/images/small/DSC02031.jpg" height="450" width="301" />
+<rendition size="thumb" src="bin/images/thumb/DSC02031.jpg" height="96" width="64" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>SONY DSC</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="7F1870AE-2742-4F20-8D75-7095C33E7628" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/DSC02032_1.jpg" height="650" width="435" />
+<rendition size="medium" src="bin/images/medium/DSC02032_1.jpg" height="520" width="348" />
+<rendition size="small" src="bin/images/small/DSC02032_1.jpg" height="450" width="301" />
+<rendition size="thumb" src="bin/images/thumb/DSC02032_1.jpg" height="96" width="64" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>SONY DSC</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="FB8AEAAE-A334-4BA7-A04D-8D89D3F33773" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/DSC02032.jpg" height="650" width="435" />
+<rendition size="medium" src="bin/images/medium/DSC02032.jpg" height="520" width="348" />
+<rendition size="small" src="bin/images/small/DSC02032.jpg" height="450" width="301" />
+<rendition size="thumb" src="bin/images/thumb/DSC02032.jpg" height="96" width="64" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>SONY DSC</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="736EE9CA-4F1C-4DB6-8972-F6F9FED93F7E" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/DSC02034.jpg" height="650" width="435" />
+<rendition size="medium" src="bin/images/medium/DSC02034.jpg" height="520" width="348" />
+<rendition size="small" src="bin/images/small/DSC02034.jpg" height="450" width="301" />
+<rendition size="thumb" src="bin/images/thumb/DSC02034.jpg" height="96" width="64" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>SONY DSC</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="43E6A3CE-113F-410E-A13C-A8746749686C" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/DSC02035.jpg" height="535" width="800" />
+<rendition size="medium" src="bin/images/medium/DSC02035.jpg" height="520" width="778" />
+<rendition size="small" src="bin/images/small/DSC02035.jpg" height="450" width="673" />
+<rendition size="thumb" src="bin/images/thumb/DSC02035.jpg" height="64" width="96" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>SONY DSC</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="89C4D36B-A57D-47AC-9FB7-DD1C6F67E36E" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/DSC02036.jpg" height="650" width="435" />
+<rendition size="medium" src="bin/images/medium/DSC02036.jpg" height="520" width="348" />
+<rendition size="small" src="bin/images/small/DSC02036.jpg" height="450" width="301" />
+<rendition size="thumb" src="bin/images/thumb/DSC02036.jpg" height="96" width="64" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>SONY DSC</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="F0A28BAE-4B87-4A94-9B04-3B53B0D3D03F" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/DSC02037.jpg" height="650" width="439" />
+<rendition size="medium" src="bin/images/medium/DSC02037.jpg" height="520" width="351" />
+<rendition size="small" src="bin/images/small/DSC02037.jpg" height="450" width="304" />
+<rendition size="thumb" src="bin/images/thumb/DSC02037.jpg" height="96" width="65" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>SONY DSC</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="F4C8F71F-BEAF-4B55-A34D-864838286863" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/DSC02038.jpg" height="650" width="435" />
+<rendition size="medium" src="bin/images/medium/DSC02038.jpg" height="520" width="348" />
+<rendition size="small" src="bin/images/small/DSC02038.jpg" height="450" width="301" />
+<rendition size="thumb" src="bin/images/thumb/DSC02038.jpg" height="96" width="64" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>SONY DSC</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="03C25A4F-75CC-440D-8E6D-5FD12A989B8A" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/DSC02039.jpg" height="650" width="435" />
+<rendition size="medium" src="bin/images/medium/DSC02039.jpg" height="520" width="348" />
+<rendition size="small" src="bin/images/small/DSC02039.jpg" height="450" width="301" />
+<rendition size="thumb" src="bin/images/thumb/DSC02039.jpg" height="96" width="64" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>SONY DSC</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="8573471F-102D-4AE8-80D7-A5FDB86AFB50" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/DSC02045.jpg" height="650" width="457" />
+<rendition size="medium" src="bin/images/medium/DSC02045.jpg" height="520" width="365" />
+<rendition size="small" src="bin/images/small/DSC02045.jpg" height="450" width="316" />
+<rendition size="thumb" src="bin/images/thumb/DSC02045.jpg" height="96" width="67" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>SONY DSC</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="6892E1F6-4383-4AD1-AA13-128D5BF1076B" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/DSC02050.jpg" height="650" width="435" />
+<rendition size="medium" src="bin/images/medium/DSC02050.jpg" height="520" width="348" />
+<rendition size="small" src="bin/images/small/DSC02050.jpg" height="450" width="301" />
+<rendition size="thumb" src="bin/images/thumb/DSC02050.jpg" height="96" width="64" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>SONY DSC</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="48830975-2A96-4185-A108-E030E32E90BA" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/DSC02052_1.jpg" height="650" width="435" />
+<rendition size="medium" src="bin/images/medium/DSC02052_1.jpg" height="520" width="348" />
+<rendition size="small" src="bin/images/small/DSC02052_1.jpg" height="450" width="301" />
+<rendition size="thumb" src="bin/images/thumb/DSC02052_1.jpg" height="96" width="64" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>SONY DSC</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="D5949854-B12B-4327-979B-197A83E2D2D3" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/DSC02052.jpg" height="650" width="435" />
+<rendition size="medium" src="bin/images/medium/DSC02052.jpg" height="520" width="348" />
+<rendition size="small" src="bin/images/small/DSC02052.jpg" height="450" width="301" />
+<rendition size="thumb" src="bin/images/thumb/DSC02052.jpg" height="96" width="64" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>SONY DSC</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="BE581590-F6B3-44FA-8FD0-4A9A041D7FB3" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/DSC02053.jpg" height="650" width="633" />
+<rendition size="medium" src="bin/images/medium/DSC02053.jpg" height="520" width="506" />
+<rendition size="small" src="bin/images/small/DSC02053.jpg" height="450" width="438" />
+<rendition size="thumb" src="bin/images/thumb/DSC02053.jpg" height="96" width="93" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>SONY DSC</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="47A86D1C-EC01-461B-90B9-BDA7520DB3CE" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/DSC02054.jpg" height="650" width="511" />
+<rendition size="medium" src="bin/images/medium/DSC02054.jpg" height="520" width="409" />
+<rendition size="small" src="bin/images/small/DSC02054.jpg" height="450" width="354" />
+<rendition size="thumb" src="bin/images/thumb/DSC02054.jpg" height="96" width="75" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>SONY DSC</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="B1875240-6EBB-4040-94B4-DCD7931935DD" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/DSC02058.jpg" height="650" width="435" />
+<rendition size="medium" src="bin/images/medium/DSC02058.jpg" height="520" width="348" />
+<rendition size="small" src="bin/images/small/DSC02058.jpg" height="450" width="301" />
+<rendition size="thumb" src="bin/images/thumb/DSC02058.jpg" height="96" width="64" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>SONY DSC</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="22AE873E-3FE2-478A-84AB-4D9601B4743A" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/DSC02061.jpg" height="650" width="537" />
+<rendition size="medium" src="bin/images/medium/DSC02061.jpg" height="520" width="430" />
+<rendition size="small" src="bin/images/small/DSC02061.jpg" height="450" width="372" />
+<rendition size="thumb" src="bin/images/thumb/DSC02061.jpg" height="96" width="79" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>SONY DSC</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="52EC7D12-118D-461A-B83B-3D8549BEE8D4" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/DSC02064.jpg" height="588" width="800" />
+<rendition size="medium" src="bin/images/medium/DSC02064.jpg" height="520" width="707" />
+<rendition size="small" src="bin/images/small/DSC02064.jpg" height="450" width="612" />
+<rendition size="thumb" src="bin/images/thumb/DSC02064.jpg" height="71" width="96" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>SONY DSC</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="5FA235F2-033C-4015-A650-D3F3B2AE5209" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/DSC02068.jpg" height="650" width="377" />
+<rendition size="medium" src="bin/images/medium/DSC02068.jpg" height="520" width="302" />
+<rendition size="small" src="bin/images/small/DSC02068.jpg" height="450" width="261" />
+<rendition size="thumb" src="bin/images/thumb/DSC02068.jpg" height="96" width="56" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>SONY DSC</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="1AA35CC5-08E8-4C20-A290-CCDE3455C8D7" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/DSC02069.jpg" height="650" width="400" />
+<rendition size="medium" src="bin/images/medium/DSC02069.jpg" height="520" width="320" />
+<rendition size="small" src="bin/images/small/DSC02069.jpg" height="450" width="277" />
+<rendition size="thumb" src="bin/images/thumb/DSC02069.jpg" height="96" width="59" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>SONY DSC</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="B059CE38-74E3-498E-BEE7-AFDF3BF71376" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/DSC02075_1.jpg" height="650" width="431" />
+<rendition size="medium" src="bin/images/medium/DSC02075_1.jpg" height="520" width="345" />
+<rendition size="small" src="bin/images/small/DSC02075_1.jpg" height="450" width="298" />
+<rendition size="thumb" src="bin/images/thumb/DSC02075_1.jpg" height="96" width="64" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>SONY DSC</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="A5DBE366-0B9F-4077-AAC0-55822E872384" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/DSC02075_2.jpg" height="650" width="431" />
+<rendition size="medium" src="bin/images/medium/DSC02075_2.jpg" height="520" width="345" />
+<rendition size="small" src="bin/images/small/DSC02075_2.jpg" height="450" width="298" />
+<rendition size="thumb" src="bin/images/thumb/DSC02075_2.jpg" height="96" width="64" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>SONY DSC</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="468E5772-CA15-46A7-BBE1-7F6C7D5163A4" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/DSC02075.jpg" height="650" width="431" />
+<rendition size="medium" src="bin/images/medium/DSC02075.jpg" height="520" width="345" />
+<rendition size="small" src="bin/images/small/DSC02075.jpg" height="450" width="298" />
+<rendition size="thumb" src="bin/images/thumb/DSC02075.jpg" height="96" width="64" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>SONY DSC</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="6C730314-3546-46BC-A353-D6AC008FC0E5" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/DSC02080.jpg" height="535" width="800" />
+<rendition size="medium" src="bin/images/medium/DSC02080.jpg" height="520" width="778" />
+<rendition size="small" src="bin/images/small/DSC02080.jpg" height="450" width="673" />
+<rendition size="thumb" src="bin/images/thumb/DSC02080.jpg" height="64" width="96" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>SONY DSC</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="8545AC40-308E-4140-9B7E-978AEB010EB2" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/DSC02083.jpg" height="650" width="435" />
+<rendition size="medium" src="bin/images/medium/DSC02083.jpg" height="520" width="348" />
+<rendition size="small" src="bin/images/small/DSC02083.jpg" height="450" width="301" />
+<rendition size="thumb" src="bin/images/thumb/DSC02083.jpg" height="96" width="64" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>SONY DSC</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="C7BE81FF-0140-498C-B0BD-EBC42EEE2B11" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/DSC02087.jpg" height="650" width="435" />
+<rendition size="medium" src="bin/images/medium/DSC02087.jpg" height="520" width="348" />
+<rendition size="small" src="bin/images/small/DSC02087.jpg" height="450" width="301" />
+<rendition size="thumb" src="bin/images/thumb/DSC02087.jpg" height="96" width="64" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>SONY DSC</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="362AC931-D4B3-447E-A539-2058A8978692" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/DSC02090.jpg" height="535" width="800" />
+<rendition size="medium" src="bin/images/medium/DSC02090.jpg" height="520" width="778" />
+<rendition size="small" src="bin/images/small/DSC02090.jpg" height="450" width="673" />
+<rendition size="thumb" src="bin/images/thumb/DSC02090.jpg" height="64" width="96" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>SONY DSC</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="4CC76614-C61B-4A19-9777-872711131B33" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/DSC02091.jpg" height="650" width="435" />
+<rendition size="medium" src="bin/images/medium/DSC02091.jpg" height="520" width="348" />
+<rendition size="small" src="bin/images/small/DSC02091.jpg" height="450" width="301" />
+<rendition size="thumb" src="bin/images/thumb/DSC02091.jpg" height="96" width="64" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>SONY DSC</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="E6786312-767C-4B7E-9E3B-D404A5468119" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/DSC02096.jpg" height="433" width="800" />
+<rendition size="medium" src="bin/images/medium/DSC02096.jpg" height="433" width="800" />
+<rendition size="small" src="bin/images/small/DSC02096.jpg" height="433" width="800" />
+<rendition size="thumb" src="bin/images/thumb/DSC02096.jpg" height="52" width="96" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>SONY DSC</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="60FC7421-7307-4616-A292-900894543D61" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/DSC02098.jpg" height="596" width="800" />
+<rendition size="medium" src="bin/images/medium/DSC02098.jpg" height="520" width="698" />
+<rendition size="small" src="bin/images/small/DSC02098.jpg" height="450" width="604" />
+<rendition size="thumb" src="bin/images/thumb/DSC02098.jpg" height="72" width="96" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>SONY DSC</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="8608048E-2075-476D-90AE-5CA917806477" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/DSC02099.jpg" height="650" width="623" />
+<rendition size="medium" src="bin/images/medium/DSC02099.jpg" height="520" width="499" />
+<rendition size="small" src="bin/images/small/DSC02099.jpg" height="450" width="431" />
+<rendition size="thumb" src="bin/images/thumb/DSC02099.jpg" height="96" width="92" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>SONY DSC</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="CE2EF73D-760D-4D11-A4A7-571F4C93A55A" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/DSC02103.jpg" height="535" width="800" />
+<rendition size="medium" src="bin/images/medium/DSC02103.jpg" height="520" width="778" />
+<rendition size="small" src="bin/images/small/DSC02103.jpg" height="450" width="673" />
+<rendition size="thumb" src="bin/images/thumb/DSC02103.jpg" height="64" width="96" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>SONY DSC</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="B5E18DD4-2552-4F30-A8F0-6AD8D94D6207" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/DSC02105.jpg" height="535" width="800" />
+<rendition size="medium" src="bin/images/medium/DSC02105.jpg" height="520" width="778" />
+<rendition size="small" src="bin/images/small/DSC02105.jpg" height="450" width="673" />
+<rendition size="thumb" src="bin/images/thumb/DSC02105.jpg" height="64" width="96" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>SONY DSC</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="B6C47589-D6B9-4D91-84FA-649E7A76729E" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/DSC02106.jpg" height="650" width="435" />
+<rendition size="medium" src="bin/images/medium/DSC02106.jpg" height="520" width="348" />
+<rendition size="small" src="bin/images/small/DSC02106.jpg" height="450" width="301" />
+<rendition size="thumb" src="bin/images/thumb/DSC02106.jpg" height="96" width="64" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>SONY DSC</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="A267DD52-80F6-4751-93DB-9A9634D3F0C9" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/DSC02110.jpg" height="650" width="435" />
+<rendition size="medium" src="bin/images/medium/DSC02110.jpg" height="520" width="348" />
+<rendition size="small" src="bin/images/small/DSC02110.jpg" height="450" width="301" />
+<rendition size="thumb" src="bin/images/thumb/DSC02110.jpg" height="96" width="64" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>SONY DSC</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="70328B90-FA7C-4F63-8EE9-4EF1409EA75A" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/DSC02112.jpg" height="535" width="800" />
+<rendition size="medium" src="bin/images/medium/DSC02112.jpg" height="520" width="778" />
+<rendition size="small" src="bin/images/small/DSC02112.jpg" height="450" width="673" />
+<rendition size="thumb" src="bin/images/thumb/DSC02112.jpg" height="64" width="96" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>SONY DSC</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="944DDD4E-7E47-447A-A9F7-69DA95C7A17E" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/DSC02113.jpg" height="650" width="435" />
+<rendition size="medium" src="bin/images/medium/DSC02113.jpg" height="520" width="348" />
+<rendition size="small" src="bin/images/small/DSC02113.jpg" height="450" width="301" />
+<rendition size="thumb" src="bin/images/thumb/DSC02113.jpg" height="96" width="64" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>SONY DSC</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="15B993F5-F8BF-47C6-96F8-6CFFEF9FB02E" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/DSC02122.jpg" height="535" width="800" />
+<rendition size="medium" src="bin/images/medium/DSC02122.jpg" height="520" width="778" />
+<rendition size="small" src="bin/images/small/DSC02122.jpg" height="450" width="673" />
+<rendition size="thumb" src="bin/images/thumb/DSC02122.jpg" height="64" width="96" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>SONY DSC</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="6C1DDB66-D59B-4B93-B594-E9ADFCB06AC0" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/DSC02123.jpg" height="535" width="800" />
+<rendition size="medium" src="bin/images/medium/DSC02123.jpg" height="520" width="778" />
+<rendition size="small" src="bin/images/small/DSC02123.jpg" height="450" width="673" />
+<rendition size="thumb" src="bin/images/thumb/DSC02123.jpg" height="64" width="96" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>SONY DSC</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="80A1C5AA-2090-49F6-8BE4-B4625AAD4886" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/DSC02130.jpg" height="650" width="435" />
+<rendition size="medium" src="bin/images/medium/DSC02130.jpg" height="520" width="348" />
+<rendition size="small" src="bin/images/small/DSC02130.jpg" height="450" width="301" />
+<rendition size="thumb" src="bin/images/thumb/DSC02130.jpg" height="96" width="64" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>SONY DSC</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="D6FE5456-BB44-4D85-AE61-1ABCB7C3D9A0" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/DSC02133.jpg" height="535" width="800" />
+<rendition size="medium" src="bin/images/medium/DSC02133.jpg" height="520" width="778" />
+<rendition size="small" src="bin/images/small/DSC02133.jpg" height="450" width="673" />
+<rendition size="thumb" src="bin/images/thumb/DSC02133.jpg" height="64" width="96" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>SONY DSC</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="A6461F17-FC4C-4AA9-8726-5B2EE92E2B47" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/DSC02135.jpg" height="650" width="435" />
+<rendition size="medium" src="bin/images/medium/DSC02135.jpg" height="520" width="348" />
+<rendition size="small" src="bin/images/small/DSC02135.jpg" height="450" width="301" />
+<rendition size="thumb" src="bin/images/thumb/DSC02135.jpg" height="96" width="64" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>SONY DSC</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="64B6B8E3-BA6C-4EF6-ACEE-F6E6D2C0E7A5" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/DSC02137.jpg" height="535" width="800" />
+<rendition size="medium" src="bin/images/medium/DSC02137.jpg" height="520" width="778" />
+<rendition size="small" src="bin/images/small/DSC02137.jpg" height="450" width="673" />
+<rendition size="thumb" src="bin/images/thumb/DSC02137.jpg" height="64" width="96" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>SONY DSC</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="9C3B715F-67DC-443E-AA64-B92B96CD0A46" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/DSC02140.jpg" height="650" width="435" />
+<rendition size="medium" src="bin/images/medium/DSC02140.jpg" height="520" width="348" />
+<rendition size="small" src="bin/images/small/DSC02140.jpg" height="450" width="301" />
+<rendition size="thumb" src="bin/images/thumb/DSC02140.jpg" height="96" width="64" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>SONY DSC</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="62C5679F-42F2-442E-A047-E376E51EFFD1" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/DSC02144.jpg" height="650" width="435" />
+<rendition size="medium" src="bin/images/medium/DSC02144.jpg" height="520" width="348" />
+<rendition size="small" src="bin/images/small/DSC02144.jpg" height="450" width="301" />
+<rendition size="thumb" src="bin/images/thumb/DSC02144.jpg" height="96" width="64" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>SONY DSC</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="1DF36792-7080-4B2D-B5D8-289DB1B15F87" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/DSC02146.jpg" height="650" width="435" />
+<rendition size="medium" src="bin/images/medium/DSC02146.jpg" height="520" width="348" />
+<rendition size="small" src="bin/images/small/DSC02146.jpg" height="450" width="301" />
+<rendition size="thumb" src="bin/images/thumb/DSC02146.jpg" height="96" width="64" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>SONY DSC</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="10F0F11E-5083-4ABB-B231-30F64CBF5FAA" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/DSC02147.jpg" height="650" width="435" />
+<rendition size="medium" src="bin/images/medium/DSC02147.jpg" height="520" width="348" />
+<rendition size="small" src="bin/images/small/DSC02147.jpg" height="450" width="301" />
+<rendition size="thumb" src="bin/images/thumb/DSC02147.jpg" height="96" width="64" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>SONY DSC</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="763A51EE-6E7D-4366-94AA-20D2F6497D4B" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/DSC02148.jpg" height="650" width="435" />
+<rendition size="medium" src="bin/images/medium/DSC02148.jpg" height="520" width="348" />
+<rendition size="small" src="bin/images/small/DSC02148.jpg" height="450" width="301" />
+<rendition size="thumb" src="bin/images/thumb/DSC02148.jpg" height="96" width="64" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>SONY DSC</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="03C2C8A0-2A3B-4896-A7B4-7157740320F3" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/DSC02149.jpg" height="650" width="533" />
+<rendition size="medium" src="bin/images/medium/DSC02149.jpg" height="520" width="426" />
+<rendition size="small" src="bin/images/small/DSC02149.jpg" height="450" width="369" />
+<rendition size="thumb" src="bin/images/thumb/DSC02149.jpg" height="96" width="79" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>SONY DSC</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="E78388BE-9DE5-4FC3-8A44-36CC07BA110E" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/DSC02150.jpg" height="650" width="678" />
+<rendition size="medium" src="bin/images/medium/DSC02150.jpg" height="520" width="542" />
+<rendition size="small" src="bin/images/small/DSC02150.jpg" height="450" width="469" />
+<rendition size="thumb" src="bin/images/thumb/DSC02150.jpg" height="92" width="96" />
+</renditions>
+</item>
+</media>
+</mediaGroup>
